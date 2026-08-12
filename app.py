@@ -7,3 +7,8 @@ st.title("Employee Attendance Analytics and Prediction Dashboard")
 st.write(
     "Upload the attendance dataset to view analytics and predict employee attendance."
 )
+
+uploaded_file = st.file_uploader("Upload Attendance CSV File", type=["csv"])
+
+df = util.load_data(uploaded_file)
+
