@@ -1,5 +1,6 @@
 import streamlit as st
 import util
+import analytics
 st.set_page_config(page_title="Employee Attendance Dashboard", layout="wide")
 
 st.title("Employee Attendance Analytics and Prediction Dashboard")
@@ -10,5 +11,19 @@ st.write(
 
 uploaded_file = st.file_uploader("Upload Attendance CSV File", type=["csv"])
 
-df = util.load_data(uploaded_file)
+if uploaded_file is not None:
+    df = util.load_data(uploaded_file)
 
+    st.subheader("Dataset Preview")
+    st.dataframe(df.head(5))
+
+    total_employees, present_count, wfh_count, absent_count, leave_count, attendance_percentage = analytics.get_metrics(df)
+
+    col1, col2, col3, col4, col5, col6 = st.columns(6)
+
+    col1.metric("Employees", total_employees)
+    col2.metric("Present", present_count)
+    col3.metric("WFH", wfh_count)
+    col4.metric("Absent", absent_count)
+    col5.metric("Leave", leave_count)
+    col6.metric("Attendance %", f"{attendance_percentage}%")
