@@ -53,23 +53,27 @@ if uploaded_file is not None:
 
     st.pyplot(fig)
 
-if "department" in df.columns:
-    st.subheader("Department-wise Attendance Summary")
-    department_summary = util.summary(df)
-    st.dataframe(department_summary)
+    if "department" in df.columns:
+        st.subheader("Department-wise Attendance Summary")
+        department_summary = util.dep_summary(df)
+        st.dataframe(department_summary)
 
-    st.subheader("Department Distribution")
+        st.subheader("Department Distribution")
 
-    fig2, ax2 = plt.subplots()
+        fig2, ax2 = plt.subplots()
 
-    department_summary.plot(kind="bar", ax=ax2)
+        department_summary.plot(kind="bar", ax=ax2)
 
-    ax2.set_xlabel("Department")
-    ax2.set_ylabel("No. of Employees")
-    ax2.set_title("Department-wise Status")
-    plt.xlabel("Departments")
-    plt.ylabel("No. of Employees")
+        ax2.set_xlabel("Department")
+        ax2.set_ylabel("No. of Employees")
+        ax2.set_title("Department-wise Status")
+        plt.xlabel("Departments")
+        plt.ylabel("No. of Employees")
 
-    plt.xticks(rotation=45)
+        plt.xticks(rotation=45)
 
-    st.pyplot(fig2)
+        st.pyplot(fig2)
+
+    st.subheader("Employee-wise Attendance Summary")
+    employee_summary = util.emp_summary(df)
+    st.dataframe(employee_summary)
