@@ -12,5 +12,3 @@ def get_metrics(df):
     attendance_percentage = round(((present_count + wfh_count) / len(df)) * 100, 2)
 
     return total_employees, present_count, wfh_count, absent_count, leave_count, attendance_percentage
-
- 
