@@ -77,3 +77,11 @@ if uploaded_file is not None:
     st.subheader("Employee-wise Attendance Summary")
     employee_summary = util.emp_summary(df)
     st.dataframe(employee_summary)
+
+    st.subheader("Daily Attendance Trend")
+
+    daily_attendance = df.groupby("date")["status"].apply(
+        lambda x: ((x == "Present") | (x == "Work From Home")).sum()
+    )
+
+    st.dataframe(daily_attendance)
