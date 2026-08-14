@@ -1,8 +1,7 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-import util
-import analytics
-
+import util, analytics, prediction
+from sklearn.model_selection import train_test_split
 st.set_page_config(page_title="Employee Attendance Dashboard", layout="wide")
 
 st.title("Employee Attendance Analytics and Prediction Dashboard")
@@ -85,3 +84,25 @@ if uploaded_file is not None:
     )
 
     st.dataframe(daily_attendance)
+
+    X, y = prediction.prepare_training_data(df)
+
+    if len(X) > 20:
+        X_train, X_test, y_train, y_test = train_test_split(
+            X, y, test_size=0.2, random_state=42
+        )
+        model = prediction.train_model(X_train, y_train)
+        
+        options = ["Present", "Absent", "Work From Home", "Leave"]
+        s1 = st.selectbox("Status 3 Records Ago", options)
+        s2 = st.selectbox("Status 2 Records Ago", options)
+        s3 = st.selectbox("Previous Status", options)
+
+        if st.button("Predict"):
+            result = prediction.predict_attendance(model, s1, s2, s3)
+            st.success(f"Predicted Status: {result}")
+    else:
+        st.warning("Not enough data available for model training.")
+
+else:
+    st.info("Upload the attendance CSV file to begin.")
