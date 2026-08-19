@@ -1,0 +1,3076 @@
+employee_id,date,status,department
+EMP001,2026-02-02,Work From Home,IT
+EMP001,2026-02-03,Absent,IT
+EMP001,2026-02-04,Present,IT
+EMP001,2026-02-05,Present,IT
+EMP001,2026-02-06,Present,IT
+EMP001,2026-02-09,Present,IT
+EMP001,2026-02-10,Leave,IT
+EMP001,2026-02-11,Present,IT
+EMP001,2026-02-12,Absent,IT
+EMP001,2026-02-13,Present,IT
+EMP001,2026-02-16,Work From Home,IT
+EMP001,2026-02-17,Leave,IT
+EMP001,2026-02-18,Present,IT
+EMP001,2026-02-19,Present,IT
+EMP001,2026-02-20,Present,IT
+EMP001,2026-02-23,Present,IT
+EMP001,2026-02-24,Present,IT
+EMP001,2026-02-25,Present,IT
+EMP001,2026-02-26,Present,IT
+EMP001,2026-02-27,Present,IT
+EMP001,2026-03-02,Present,IT
+EMP001,2026-03-03,Present,IT
+EMP001,2026-03-04,Present,IT
+EMP001,2026-03-05,Present,IT
+EMP001,2026-03-06,Absent,IT
+EMP001,2026-03-09,Present,IT
+EMP001,2026-03-10,Present,IT
+EMP001,2026-03-11,Present,IT
+EMP001,2026-03-12,Present,IT
+EMP001,2026-03-13,Present,IT
+EMP001,2026-03-16,Present,IT
+EMP001,2026-03-17,Present,IT
+EMP001,2026-03-18,Work From Home,IT
+EMP001,2026-03-19,Work From Home,IT
+EMP001,2026-03-20,Absent,IT
+EMP001,2026-03-23,Present,IT
+EMP001,2026-03-24,Present,IT
+EMP001,2026-03-25,Present,IT
+EMP001,2026-03-26,Present,IT
+EMP001,2026-03-27,Present,IT
+EMP001,2026-03-30,Present,IT
+EMP001,2026-03-31,Present,IT
+EMP001,2026-04-01,Work From Home,IT
+EMP001,2026-04-02,Present,IT
+EMP001,2026-04-03,Present,IT
+EMP001,2026-04-06,Present,IT
+EMP001,2026-04-07,Present,IT
+EMP001,2026-04-08,Present,IT
+EMP001,2026-04-09,Present,IT
+EMP001,2026-04-10,Work From Home,IT
+EMP001,2026-04-13,Absent,IT
+EMP001,2026-04-14,Work From Home,IT
+EMP001,2026-04-15,Work From Home,IT
+EMP001,2026-04-16,Present,IT
+EMP001,2026-04-17,Work From Home,IT
+EMP001,2026-04-20,Present,IT
+EMP001,2026-04-21,Present,IT
+EMP001,2026-04-22,Present,IT
+EMP001,2026-04-23,Present,IT
+EMP001,2026-04-24,Present,IT
+EMP001,2026-04-27,Present,IT
+EMP001,2026-04-28,Leave,IT
+EMP001,2026-04-29,Present,IT
+EMP001,2026-04-30,Present,IT
+EMP001,2026-05-01,Present,IT
+EMP001,2026-05-04,Present,IT
+EMP001,2026-05-05,Absent,IT
+EMP001,2026-05-06,Present,IT
+EMP001,2026-05-07,Work From Home,IT
+EMP001,2026-05-08,Absent,IT
+EMP001,2026-05-11,Present,IT
+EMP001,2026-05-12,Present,IT
+EMP001,2026-05-13,Leave,IT
+EMP001,2026-05-14,Present,IT
+EMP001,2026-05-15,Absent,IT
+EMP001,2026-05-18,Absent,IT
+EMP001,2026-05-19,Present,IT
+EMP001,2026-05-20,Present,IT
+EMP001,2026-05-21,Present,IT
+EMP001,2026-05-22,Leave,IT
+EMP001,2026-05-25,Present,IT
+EMP001,2026-05-26,Present,IT
+EMP001,2026-05-27,Present,IT
+EMP001,2026-05-28,Present,IT
+EMP001,2026-05-29,Present,IT
+EMP001,2026-06-01,Absent,IT
+EMP001,2026-06-02,Present,IT
+EMP001,2026-06-03,Leave,IT
+EMP001,2026-06-04,Present,IT
+EMP001,2026-06-05,Present,IT
+EMP001,2026-06-08,Absent,IT
+EMP001,2026-06-09,Absent,IT
+EMP001,2026-06-10,Present,IT
+EMP001,2026-06-11,Absent,IT
+EMP001,2026-06-12,Present,IT
+EMP001,2026-06-15,Present,IT
+EMP001,2026-06-16,Present,IT
+EMP001,2026-06-17,Present,IT
+EMP001,2026-06-18,Present,IT
+EMP001,2026-06-19,Present,IT
+EMP001,2026-06-22,Present,IT
+EMP001,2026-06-23,Present,IT
+EMP001,2026-06-24,Present,IT
+EMP001,2026-06-25,Work From Home,IT
+EMP001,2026-06-26,Present,IT
+EMP001,2026-06-29,Present,IT
+EMP001,2026-06-30,Absent,IT
+EMP001,2026-07-01,Present,IT
+EMP001,2026-07-02,Present,IT
+EMP001,2026-07-03,Present,IT
+EMP001,2026-07-06,Present,IT
+EMP001,2026-07-07,Work From Home,IT
+EMP001,2026-07-08,Absent,IT
+EMP001,2026-07-09,Present,IT
+EMP001,2026-07-10,Leave,IT
+EMP001,2026-07-13,Absent,IT
+EMP001,2026-07-14,Present,IT
+EMP001,2026-07-15,Leave,IT
+EMP001,2026-07-16,Present,IT
+EMP001,2026-07-17,Absent,IT
+EMP001,2026-07-20,Work From Home,IT
+EMP001,2026-07-21,Present,IT
+EMP001,2026-07-22,Present,IT
+EMP002,2026-02-02,Present,HR
+EMP002,2026-02-03,Leave,HR
+EMP002,2026-02-04,Leave,HR
+EMP002,2026-02-05,Present,HR
+EMP002,2026-02-06,Present,HR
+EMP002,2026-02-09,Present,HR
+EMP002,2026-02-10,Present,HR
+EMP002,2026-02-11,Present,HR
+EMP002,2026-02-12,Present,HR
+EMP002,2026-02-13,Work From Home,HR
+EMP002,2026-02-16,Present,HR
+EMP002,2026-02-17,Present,HR
+EMP002,2026-02-18,Absent,HR
+EMP002,2026-02-19,Present,HR
+EMP002,2026-02-20,Work From Home,HR
+EMP002,2026-02-23,Work From Home,HR
+EMP002,2026-02-24,Present,HR
+EMP002,2026-02-25,Present,HR
+EMP002,2026-02-26,Present,HR
+EMP002,2026-02-27,Present,HR
+EMP002,2026-03-02,Present,HR
+EMP002,2026-03-03,Present,HR
+EMP002,2026-03-04,Present,HR
+EMP002,2026-03-05,Present,HR
+EMP002,2026-03-06,Present,HR
+EMP002,2026-03-09,Work From Home,HR
+EMP002,2026-03-10,Present,HR
+EMP002,2026-03-11,Present,HR
+EMP002,2026-03-12,Present,HR
+EMP002,2026-03-13,Work From Home,HR
+EMP002,2026-03-16,Present,HR
+EMP002,2026-03-17,Present,HR
+EMP002,2026-03-18,Absent,HR
+EMP002,2026-03-19,Present,HR
+EMP002,2026-03-20,Absent,HR
+EMP002,2026-03-23,Present,HR
+EMP002,2026-03-24,Present,HR
+EMP002,2026-03-25,Present,HR
+EMP002,2026-03-26,Present,HR
+EMP002,2026-03-27,Present,HR
+EMP002,2026-03-30,Leave,HR
+EMP002,2026-03-31,Present,HR
+EMP002,2026-04-01,Present,HR
+EMP002,2026-04-02,Present,HR
+EMP002,2026-04-03,Present,HR
+EMP002,2026-04-06,Present,HR
+EMP002,2026-04-07,Present,HR
+EMP002,2026-04-08,Present,HR
+EMP002,2026-04-09,Present,HR
+EMP002,2026-04-10,Present,HR
+EMP002,2026-04-13,Present,HR
+EMP002,2026-04-14,Present,HR
+EMP002,2026-04-15,Present,HR
+EMP002,2026-04-16,Work From Home,HR
+EMP002,2026-04-17,Present,HR
+EMP002,2026-04-20,Present,HR
+EMP002,2026-04-21,Present,HR
+EMP002,2026-04-22,Work From Home,HR
+EMP002,2026-04-23,Leave,HR
+EMP002,2026-04-24,Present,HR
+EMP002,2026-04-27,Present,HR
+EMP002,2026-04-28,Leave,HR
+EMP002,2026-04-29,Present,HR
+EMP002,2026-04-30,Present,HR
+EMP002,2026-05-01,Present,HR
+EMP002,2026-05-04,Present,HR
+EMP002,2026-05-05,Work From Home,HR
+EMP002,2026-05-06,Work From Home,HR
+EMP002,2026-05-07,Present,HR
+EMP002,2026-05-08,Present,HR
+EMP002,2026-05-11,Present,HR
+EMP002,2026-05-12,Absent,HR
+EMP002,2026-05-13,Work From Home,HR
+EMP002,2026-05-14,Work From Home,HR
+EMP002,2026-05-15,Absent,HR
+EMP002,2026-05-18,Present,HR
+EMP002,2026-05-19,Present,HR
+EMP002,2026-05-20,Present,HR
+EMP002,2026-05-21,Work From Home,HR
+EMP002,2026-05-22,Present,HR
+EMP002,2026-05-25,Present,HR
+EMP002,2026-05-26,Present,HR
+EMP002,2026-05-27,Present,HR
+EMP002,2026-05-28,Present,HR
+EMP002,2026-05-29,Present,HR
+EMP002,2026-06-01,Present,HR
+EMP002,2026-06-02,Present,HR
+EMP002,2026-06-03,Present,HR
+EMP002,2026-06-04,Present,HR
+EMP002,2026-06-05,Absent,HR
+EMP002,2026-06-08,Present,HR
+EMP002,2026-06-09,Present,HR
+EMP002,2026-06-10,Absent,HR
+EMP002,2026-06-11,Present,HR
+EMP002,2026-06-12,Leave,HR
+EMP002,2026-06-15,Present,HR
+EMP002,2026-06-16,Present,HR
+EMP002,2026-06-17,Present,HR
+EMP002,2026-06-18,Present,HR
+EMP002,2026-06-19,Present,HR
+EMP002,2026-06-22,Present,HR
+EMP002,2026-06-23,Work From Home,HR
+EMP002,2026-06-24,Present,HR
+EMP002,2026-06-25,Work From Home,HR
+EMP002,2026-06-26,Present,HR
+EMP002,2026-06-29,Absent,HR
+EMP002,2026-06-30,Present,HR
+EMP002,2026-07-01,Present,HR
+EMP002,2026-07-02,Present,HR
+EMP002,2026-07-03,Present,HR
+EMP002,2026-07-06,Absent,HR
+EMP002,2026-07-07,Present,HR
+EMP002,2026-07-08,Present,HR
+EMP002,2026-07-09,Present,HR
+EMP002,2026-07-10,Present,HR
+EMP002,2026-07-13,Work From Home,HR
+EMP002,2026-07-14,Work From Home,HR
+EMP002,2026-07-15,Work From Home,HR
+EMP002,2026-07-16,Present,HR
+EMP002,2026-07-17,Present,HR
+EMP002,2026-07-20,Work From Home,HR
+EMP002,2026-07-21,Present,HR
+EMP002,2026-07-22,Work From Home,HR
+EMP003,2026-02-02,Leave,Finance
+EMP003,2026-02-03,Present,Finance
+EMP003,2026-02-04,Present,Finance
+EMP003,2026-02-05,Leave,Finance
+EMP003,2026-02-06,Present,Finance
+EMP003,2026-02-09,Present,Finance
+EMP003,2026-02-10,Present,Finance
+EMP003,2026-02-11,Work From Home,Finance
+EMP003,2026-02-12,Present,Finance
+EMP003,2026-02-13,Present,Finance
+EMP003,2026-02-16,Present,Finance
+EMP003,2026-02-17,Present,Finance
+EMP003,2026-02-18,Work From Home,Finance
+EMP003,2026-02-19,Present,Finance
+EMP003,2026-02-20,Present,Finance
+EMP003,2026-02-23,Leave,Finance
+EMP003,2026-02-24,Present,Finance
+EMP003,2026-02-25,Present,Finance
+EMP003,2026-02-26,Present,Finance
+EMP003,2026-02-27,Present,Finance
+EMP003,2026-03-02,Present,Finance
+EMP003,2026-03-03,Absent,Finance
+EMP003,2026-03-04,Absent,Finance
+EMP003,2026-03-05,Leave,Finance
+EMP003,2026-03-06,Leave,Finance
+EMP003,2026-03-09,Present,Finance
+EMP003,2026-03-10,Present,Finance
+EMP003,2026-03-11,Absent,Finance
+EMP003,2026-03-12,Present,Finance
+EMP003,2026-03-13,Present,Finance
+EMP003,2026-03-16,Absent,Finance
+EMP003,2026-03-17,Leave,Finance
+EMP003,2026-03-18,Present,Finance
+EMP003,2026-03-19,Present,Finance
+EMP003,2026-03-20,Present,Finance
+EMP003,2026-03-23,Present,Finance
+EMP003,2026-03-24,Present,Finance
+EMP003,2026-03-25,Present,Finance
+EMP003,2026-03-26,Present,Finance
+EMP003,2026-03-27,Present,Finance
+EMP003,2026-03-30,Present,Finance
+EMP003,2026-03-31,Present,Finance
+EMP003,2026-04-01,Present,Finance
+EMP003,2026-04-02,Absent,Finance
+EMP003,2026-04-03,Present,Finance
+EMP003,2026-04-06,Present,Finance
+EMP003,2026-04-07,Present,Finance
+EMP003,2026-04-08,Absent,Finance
+EMP003,2026-04-09,Present,Finance
+EMP003,2026-04-10,Present,Finance
+EMP003,2026-04-13,Present,Finance
+EMP003,2026-04-14,Present,Finance
+EMP003,2026-04-15,Present,Finance
+EMP003,2026-04-16,Present,Finance
+EMP003,2026-04-17,Present,Finance
+EMP003,2026-04-20,Present,Finance
+EMP003,2026-04-21,Work From Home,Finance
+EMP003,2026-04-22,Present,Finance
+EMP003,2026-04-23,Present,Finance
+EMP003,2026-04-24,Absent,Finance
+EMP003,2026-04-27,Present,Finance
+EMP003,2026-04-28,Present,Finance
+EMP003,2026-04-29,Present,Finance
+EMP003,2026-04-30,Present,Finance
+EMP003,2026-05-01,Work From Home,Finance
+EMP003,2026-05-04,Absent,Finance
+EMP003,2026-05-05,Present,Finance
+EMP003,2026-05-06,Present,Finance
+EMP003,2026-05-07,Present,Finance
+EMP003,2026-05-08,Present,Finance
+EMP003,2026-05-11,Present,Finance
+EMP003,2026-05-12,Present,Finance
+EMP003,2026-05-13,Present,Finance
+EMP003,2026-05-14,Present,Finance
+EMP003,2026-05-15,Present,Finance
+EMP003,2026-05-18,Work From Home,Finance
+EMP003,2026-05-19,Present,Finance
+EMP003,2026-05-20,Present,Finance
+EMP003,2026-05-21,Present,Finance
+EMP003,2026-05-22,Present,Finance
+EMP003,2026-05-25,Present,Finance
+EMP003,2026-05-26,Present,Finance
+EMP003,2026-05-27,Present,Finance
+EMP003,2026-05-28,Present,Finance
+EMP003,2026-05-29,Present,Finance
+EMP003,2026-06-01,Present,Finance
+EMP003,2026-06-02,Present,Finance
+EMP003,2026-06-03,Leave,Finance
+EMP003,2026-06-04,Present,Finance
+EMP003,2026-06-05,Present,Finance
+EMP003,2026-06-08,Present,Finance
+EMP003,2026-06-09,Present,Finance
+EMP003,2026-06-10,Present,Finance
+EMP003,2026-06-11,Present,Finance
+EMP003,2026-06-12,Present,Finance
+EMP003,2026-06-15,Present,Finance
+EMP003,2026-06-16,Present,Finance
+EMP003,2026-06-17,Present,Finance
+EMP003,2026-06-18,Present,Finance
+EMP003,2026-06-19,Present,Finance
+EMP003,2026-06-22,Present,Finance
+EMP003,2026-06-23,Present,Finance
+EMP003,2026-06-24,Leave,Finance
+EMP003,2026-06-25,Present,Finance
+EMP003,2026-06-26,Present,Finance
+EMP003,2026-06-29,Present,Finance
+EMP003,2026-06-30,Present,Finance
+EMP003,2026-07-01,Present,Finance
+EMP003,2026-07-02,Present,Finance
+EMP003,2026-07-03,Work From Home,Finance
+EMP003,2026-07-06,Present,Finance
+EMP003,2026-07-07,Present,Finance
+EMP003,2026-07-08,Present,Finance
+EMP003,2026-07-09,Present,Finance
+EMP003,2026-07-10,Present,Finance
+EMP003,2026-07-13,Work From Home,Finance
+EMP003,2026-07-14,Present,Finance
+EMP003,2026-07-15,Work From Home,Finance
+EMP003,2026-07-16,Leave,Finance
+EMP003,2026-07-17,Present,Finance
+EMP003,2026-07-20,Present,Finance
+EMP003,2026-07-21,Present,Finance
+EMP003,2026-07-22,Present,Finance
+EMP004,2026-02-02,Absent,Sales
+EMP004,2026-02-03,Present,Sales
+EMP004,2026-02-04,Present,Sales
+EMP004,2026-02-05,Leave,Sales
+EMP004,2026-02-06,Present,Sales
+EMP004,2026-02-09,Leave,Sales
+EMP004,2026-02-10,Present,Sales
+EMP004,2026-02-11,Present,Sales
+EMP004,2026-02-12,Absent,Sales
+EMP004,2026-02-13,Present,Sales
+EMP004,2026-02-16,Leave,Sales
+EMP004,2026-02-17,Absent,Sales
+EMP004,2026-02-18,Leave,Sales
+EMP004,2026-02-19,Present,Sales
+EMP004,2026-02-20,Present,Sales
+EMP004,2026-02-23,Absent,Sales
+EMP004,2026-02-24,Leave,Sales
+EMP004,2026-02-25,Work From Home,Sales
+EMP004,2026-02-26,Present,Sales
+EMP004,2026-02-27,Present,Sales
+EMP004,2026-03-02,Absent,Sales
+EMP004,2026-03-03,Present,Sales
+EMP004,2026-03-04,Work From Home,Sales
+EMP004,2026-03-05,Leave,Sales
+EMP004,2026-03-06,Present,Sales
+EMP004,2026-03-09,Absent,Sales
+EMP004,2026-03-10,Absent,Sales
+EMP004,2026-03-11,Present,Sales
+EMP004,2026-03-12,Work From Home,Sales
+EMP004,2026-03-13,Present,Sales
+EMP004,2026-03-16,Leave,Sales
+EMP004,2026-03-17,Present,Sales
+EMP004,2026-03-18,Work From Home,Sales
+EMP004,2026-03-19,Present,Sales
+EMP004,2026-03-20,Present,Sales
+EMP004,2026-03-23,Work From Home,Sales
+EMP004,2026-03-24,Present,Sales
+EMP004,2026-03-25,Present,Sales
+EMP004,2026-03-26,Work From Home,Sales
+EMP004,2026-03-27,Work From Home,Sales
+EMP004,2026-03-30,Present,Sales
+EMP004,2026-03-31,Present,Sales
+EMP004,2026-04-01,Present,Sales
+EMP004,2026-04-02,Present,Sales
+EMP004,2026-04-03,Present,Sales
+EMP004,2026-04-06,Present,Sales
+EMP004,2026-04-07,Absent,Sales
+EMP004,2026-04-08,Absent,Sales
+EMP004,2026-04-09,Absent,Sales
+EMP004,2026-04-10,Present,Sales
+EMP004,2026-04-13,Present,Sales
+EMP004,2026-04-14,Present,Sales
+EMP004,2026-04-15,Present,Sales
+EMP004,2026-04-16,Present,Sales
+EMP004,2026-04-17,Work From Home,Sales
+EMP004,2026-04-20,Present,Sales
+EMP004,2026-04-21,Present,Sales
+EMP004,2026-04-22,Present,Sales
+EMP004,2026-04-23,Absent,Sales
+EMP004,2026-04-24,Present,Sales
+EMP004,2026-04-27,Present,Sales
+EMP004,2026-04-28,Present,Sales
+EMP004,2026-04-29,Absent,Sales
+EMP004,2026-04-30,Present,Sales
+EMP004,2026-05-01,Leave,Sales
+EMP004,2026-05-04,Absent,Sales
+EMP004,2026-05-05,Present,Sales
+EMP004,2026-05-06,Present,Sales
+EMP004,2026-05-07,Work From Home,Sales
+EMP004,2026-05-08,Present,Sales
+EMP004,2026-05-11,Present,Sales
+EMP004,2026-05-12,Leave,Sales
+EMP004,2026-05-13,Work From Home,Sales
+EMP004,2026-05-14,Work From Home,Sales
+EMP004,2026-05-15,Absent,Sales
+EMP004,2026-05-18,Present,Sales
+EMP004,2026-05-19,Present,Sales
+EMP004,2026-05-20,Absent,Sales
+EMP004,2026-05-21,Present,Sales
+EMP004,2026-05-22,Present,Sales
+EMP004,2026-05-25,Work From Home,Sales
+EMP004,2026-05-26,Present,Sales
+EMP004,2026-05-27,Present,Sales
+EMP004,2026-05-28,Present,Sales
+EMP004,2026-05-29,Present,Sales
+EMP004,2026-06-01,Present,Sales
+EMP004,2026-06-02,Present,Sales
+EMP004,2026-06-03,Present,Sales
+EMP004,2026-06-04,Present,Sales
+EMP004,2026-06-05,Absent,Sales
+EMP004,2026-06-08,Present,Sales
+EMP004,2026-06-09,Work From Home,Sales
+EMP004,2026-06-10,Present,Sales
+EMP004,2026-06-11,Present,Sales
+EMP004,2026-06-12,Leave,Sales
+EMP004,2026-06-15,Present,Sales
+EMP004,2026-06-16,Work From Home,Sales
+EMP004,2026-06-17,Present,Sales
+EMP004,2026-06-18,Work From Home,Sales
+EMP004,2026-06-19,Present,Sales
+EMP004,2026-06-22,Work From Home,Sales
+EMP004,2026-06-23,Present,Sales
+EMP004,2026-06-24,Work From Home,Sales
+EMP004,2026-06-25,Present,Sales
+EMP004,2026-06-26,Present,Sales
+EMP004,2026-06-29,Work From Home,Sales
+EMP004,2026-06-30,Present,Sales
+EMP004,2026-07-01,Present,Sales
+EMP004,2026-07-02,Absent,Sales
+EMP004,2026-07-03,Present,Sales
+EMP004,2026-07-06,Present,Sales
+EMP004,2026-07-07,Present,Sales
+EMP004,2026-07-08,Work From Home,Sales
+EMP004,2026-07-09,Present,Sales
+EMP004,2026-07-10,Present,Sales
+EMP004,2026-07-13,Work From Home,Sales
+EMP004,2026-07-14,Work From Home,Sales
+EMP004,2026-07-15,Present,Sales
+EMP004,2026-07-16,Present,Sales
+EMP004,2026-07-17,Present,Sales
+EMP004,2026-07-20,Present,Sales
+EMP004,2026-07-21,Present,Sales
+EMP004,2026-07-22,Present,Sales
+EMP005,2026-02-02,Present,Marketing
+EMP005,2026-02-03,Work From Home,Marketing
+EMP005,2026-02-04,Work From Home,Marketing
+EMP005,2026-02-05,Present,Marketing
+EMP005,2026-02-06,Present,Marketing
+EMP005,2026-02-09,Present,Marketing
+EMP005,2026-02-10,Absent,Marketing
+EMP005,2026-02-11,Present,Marketing
+EMP005,2026-02-12,Present,Marketing
+EMP005,2026-02-13,Work From Home,Marketing
+EMP005,2026-02-16,Absent,Marketing
+EMP005,2026-02-17,Work From Home,Marketing
+EMP005,2026-02-18,Present,Marketing
+EMP005,2026-02-19,Present,Marketing
+EMP005,2026-02-20,Present,Marketing
+EMP005,2026-02-23,Work From Home,Marketing
+EMP005,2026-02-24,Leave,Marketing
+EMP005,2026-02-25,Present,Marketing
+EMP005,2026-02-26,Present,Marketing
+EMP005,2026-02-27,Present,Marketing
+EMP005,2026-03-02,Absent,Marketing
+EMP005,2026-03-03,Work From Home,Marketing
+EMP005,2026-03-04,Present,Marketing
+EMP005,2026-03-05,Present,Marketing
+EMP005,2026-03-06,Present,Marketing
+EMP005,2026-03-09,Work From Home,Marketing
+EMP005,2026-03-10,Leave,Marketing
+EMP005,2026-03-11,Leave,Marketing
+EMP005,2026-03-12,Present,Marketing
+EMP005,2026-03-13,Present,Marketing
+EMP005,2026-03-16,Present,Marketing
+EMP005,2026-03-17,Present,Marketing
+EMP005,2026-03-18,Leave,Marketing
+EMP005,2026-03-19,Absent,Marketing
+EMP005,2026-03-20,Work From Home,Marketing
+EMP005,2026-03-23,Work From Home,Marketing
+EMP005,2026-03-24,Present,Marketing
+EMP005,2026-03-25,Absent,Marketing
+EMP005,2026-03-26,Work From Home,Marketing
+EMP005,2026-03-27,Leave,Marketing
+EMP005,2026-03-30,Present,Marketing
+EMP005,2026-03-31,Present,Marketing
+EMP005,2026-04-01,Present,Marketing
+EMP005,2026-04-02,Work From Home,Marketing
+EMP005,2026-04-03,Present,Marketing
+EMP005,2026-04-06,Present,Marketing
+EMP005,2026-04-07,Present,Marketing
+EMP005,2026-04-08,Present,Marketing
+EMP005,2026-04-09,Present,Marketing
+EMP005,2026-04-10,Present,Marketing
+EMP005,2026-04-13,Present,Marketing
+EMP005,2026-04-14,Present,Marketing
+EMP005,2026-04-15,Absent,Marketing
+EMP005,2026-04-16,Present,Marketing
+EMP005,2026-04-17,Leave,Marketing
+EMP005,2026-04-20,Present,Marketing
+EMP005,2026-04-21,Present,Marketing
+EMP005,2026-04-22,Leave,Marketing
+EMP005,2026-04-23,Present,Marketing
+EMP005,2026-04-24,Present,Marketing
+EMP005,2026-04-27,Present,Marketing
+EMP005,2026-04-28,Absent,Marketing
+EMP005,2026-04-29,Present,Marketing
+EMP005,2026-04-30,Present,Marketing
+EMP005,2026-05-01,Present,Marketing
+EMP005,2026-05-04,Present,Marketing
+EMP005,2026-05-05,Present,Marketing
+EMP005,2026-05-06,Present,Marketing
+EMP005,2026-05-07,Present,Marketing
+EMP005,2026-05-08,Present,Marketing
+EMP005,2026-05-11,Present,Marketing
+EMP005,2026-05-12,Leave,Marketing
+EMP005,2026-05-13,Present,Marketing
+EMP005,2026-05-14,Present,Marketing
+EMP005,2026-05-15,Absent,Marketing
+EMP005,2026-05-18,Present,Marketing
+EMP005,2026-05-19,Present,Marketing
+EMP005,2026-05-20,Leave,Marketing
+EMP005,2026-05-21,Work From Home,Marketing
+EMP005,2026-05-22,Present,Marketing
+EMP005,2026-05-25,Work From Home,Marketing
+EMP005,2026-05-26,Present,Marketing
+EMP005,2026-05-27,Present,Marketing
+EMP005,2026-05-28,Present,Marketing
+EMP005,2026-05-29,Work From Home,Marketing
+EMP005,2026-06-01,Present,Marketing
+EMP005,2026-06-02,Present,Marketing
+EMP005,2026-06-03,Present,Marketing
+EMP005,2026-06-04,Present,Marketing
+EMP005,2026-06-05,Present,Marketing
+EMP005,2026-06-08,Present,Marketing
+EMP005,2026-06-09,Present,Marketing
+EMP005,2026-06-10,Present,Marketing
+EMP005,2026-06-11,Present,Marketing
+EMP005,2026-06-12,Present,Marketing
+EMP005,2026-06-15,Present,Marketing
+EMP005,2026-06-16,Present,Marketing
+EMP005,2026-06-17,Leave,Marketing
+EMP005,2026-06-18,Present,Marketing
+EMP005,2026-06-19,Present,Marketing
+EMP005,2026-06-22,Present,Marketing
+EMP005,2026-06-23,Present,Marketing
+EMP005,2026-06-24,Present,Marketing
+EMP005,2026-06-25,Present,Marketing
+EMP005,2026-06-26,Present,Marketing
+EMP005,2026-06-29,Present,Marketing
+EMP005,2026-06-30,Present,Marketing
+EMP005,2026-07-01,Present,Marketing
+EMP005,2026-07-02,Present,Marketing
+EMP005,2026-07-03,Present,Marketing
+EMP005,2026-07-06,Present,Marketing
+EMP005,2026-07-07,Present,Marketing
+EMP005,2026-07-08,Present,Marketing
+EMP005,2026-07-09,Present,Marketing
+EMP005,2026-07-10,Absent,Marketing
+EMP005,2026-07-13,Present,Marketing
+EMP005,2026-07-14,Present,Marketing
+EMP005,2026-07-15,Leave,Marketing
+EMP005,2026-07-16,Work From Home,Marketing
+EMP005,2026-07-17,Present,Marketing
+EMP005,2026-07-20,Present,Marketing
+EMP005,2026-07-21,Absent,Marketing
+EMP005,2026-07-22,Absent,Marketing
+EMP006,2026-02-02,Present,IT
+EMP006,2026-02-03,Present,IT
+EMP006,2026-02-04,Present,IT
+EMP006,2026-02-05,Present,IT
+EMP006,2026-02-06,Present,IT
+EMP006,2026-02-09,Present,IT
+EMP006,2026-02-10,Absent,IT
+EMP006,2026-02-11,Present,IT
+EMP006,2026-02-12,Present,IT
+EMP006,2026-02-13,Absent,IT
+EMP006,2026-02-16,Work From Home,IT
+EMP006,2026-02-17,Present,IT
+EMP006,2026-02-18,Present,IT
+EMP006,2026-02-19,Present,IT
+EMP006,2026-02-20,Present,IT
+EMP006,2026-02-23,Present,IT
+EMP006,2026-02-24,Present,IT
+EMP006,2026-02-25,Present,IT
+EMP006,2026-02-26,Present,IT
+EMP006,2026-02-27,Present,IT
+EMP006,2026-03-02,Present,IT
+EMP006,2026-03-03,Present,IT
+EMP006,2026-03-04,Present,IT
+EMP006,2026-03-05,Present,IT
+EMP006,2026-03-06,Work From Home,IT
+EMP006,2026-03-09,Present,IT
+EMP006,2026-03-10,Present,IT
+EMP006,2026-03-11,Absent,IT
+EMP006,2026-03-12,Present,IT
+EMP006,2026-03-13,Present,IT
+EMP006,2026-03-16,Present,IT
+EMP006,2026-03-17,Present,IT
+EMP006,2026-03-18,Absent,IT
+EMP006,2026-03-19,Present,IT
+EMP006,2026-03-20,Present,IT
+EMP006,2026-03-23,Present,IT
+EMP006,2026-03-24,Present,IT
+EMP006,2026-03-25,Present,IT
+EMP006,2026-03-26,Present,IT
+EMP006,2026-03-27,Present,IT
+EMP006,2026-03-30,Work From Home,IT
+EMP006,2026-03-31,Present,IT
+EMP006,2026-04-01,Present,IT
+EMP006,2026-04-02,Present,IT
+EMP006,2026-04-03,Present,IT
+EMP006,2026-04-06,Present,IT
+EMP006,2026-04-07,Present,IT
+EMP006,2026-04-08,Present,IT
+EMP006,2026-04-09,Present,IT
+EMP006,2026-04-10,Present,IT
+EMP006,2026-04-13,Work From Home,IT
+EMP006,2026-04-14,Present,IT
+EMP006,2026-04-15,Present,IT
+EMP006,2026-04-16,Present,IT
+EMP006,2026-04-17,Work From Home,IT
+EMP006,2026-04-20,Present,IT
+EMP006,2026-04-21,Present,IT
+EMP006,2026-04-22,Work From Home,IT
+EMP006,2026-04-23,Leave,IT
+EMP006,2026-04-24,Leave,IT
+EMP006,2026-04-27,Present,IT
+EMP006,2026-04-28,Present,IT
+EMP006,2026-04-29,Present,IT
+EMP006,2026-04-30,Work From Home,IT
+EMP006,2026-05-01,Present,IT
+EMP006,2026-05-04,Present,IT
+EMP006,2026-05-05,Present,IT
+EMP006,2026-05-06,Absent,IT
+EMP006,2026-05-07,Present,IT
+EMP006,2026-05-08,Present,IT
+EMP006,2026-05-11,Present,IT
+EMP006,2026-05-12,Present,IT
+EMP006,2026-05-13,Present,IT
+EMP006,2026-05-14,Present,IT
+EMP006,2026-05-15,Present,IT
+EMP006,2026-05-18,Present,IT
+EMP006,2026-05-19,Present,IT
+EMP006,2026-05-20,Present,IT
+EMP006,2026-05-21,Present,IT
+EMP006,2026-05-22,Present,IT
+EMP006,2026-05-25,Present,IT
+EMP006,2026-05-26,Present,IT
+EMP006,2026-05-27,Present,IT
+EMP006,2026-05-28,Present,IT
+EMP006,2026-05-29,Work From Home,IT
+EMP006,2026-06-01,Present,IT
+EMP006,2026-06-02,Leave,IT
+EMP006,2026-06-03,Present,IT
+EMP006,2026-06-04,Present,IT
+EMP006,2026-06-05,Absent,IT
+EMP006,2026-06-08,Present,IT
+EMP006,2026-06-09,Present,IT
+EMP006,2026-06-10,Present,IT
+EMP006,2026-06-11,Present,IT
+EMP006,2026-06-12,Work From Home,IT
+EMP006,2026-06-15,Leave,IT
+EMP006,2026-06-16,Work From Home,IT
+EMP006,2026-06-17,Present,IT
+EMP006,2026-06-18,Absent,IT
+EMP006,2026-06-19,Work From Home,IT
+EMP006,2026-06-22,Present,IT
+EMP006,2026-06-23,Present,IT
+EMP006,2026-06-24,Absent,IT
+EMP006,2026-06-25,Present,IT
+EMP006,2026-06-26,Leave,IT
+EMP006,2026-06-29,Present,IT
+EMP006,2026-06-30,Absent,IT
+EMP006,2026-07-01,Present,IT
+EMP006,2026-07-02,Present,IT
+EMP006,2026-07-03,Present,IT
+EMP006,2026-07-06,Leave,IT
+EMP006,2026-07-07,Present,IT
+EMP006,2026-07-08,Present,IT
+EMP006,2026-07-09,Present,IT
+EMP006,2026-07-10,Leave,IT
+EMP006,2026-07-13,Present,IT
+EMP006,2026-07-14,Leave,IT
+EMP006,2026-07-15,Present,IT
+EMP006,2026-07-16,Present,IT
+EMP006,2026-07-17,Present,IT
+EMP006,2026-07-20,Present,IT
+EMP006,2026-07-21,Absent,IT
+EMP006,2026-07-22,Present,IT
+EMP007,2026-02-02,Work From Home,HR
+EMP007,2026-02-03,Present,HR
+EMP007,2026-02-04,Present,HR
+EMP007,2026-02-05,Work From Home,HR
+EMP007,2026-02-06,Present,HR
+EMP007,2026-02-09,Present,HR
+EMP007,2026-02-10,Work From Home,HR
+EMP007,2026-02-11,Present,HR
+EMP007,2026-02-12,Present,HR
+EMP007,2026-02-13,Present,HR
+EMP007,2026-02-16,Absent,HR
+EMP007,2026-02-17,Present,HR
+EMP007,2026-02-18,Present,HR
+EMP007,2026-02-19,Work From Home,HR
+EMP007,2026-02-20,Absent,HR
+EMP007,2026-02-23,Present,HR
+EMP007,2026-02-24,Present,HR
+EMP007,2026-02-25,Present,HR
+EMP007,2026-02-26,Absent,HR
+EMP007,2026-02-27,Present,HR
+EMP007,2026-03-02,Present,HR
+EMP007,2026-03-03,Absent,HR
+EMP007,2026-03-04,Leave,HR
+EMP007,2026-03-05,Present,HR
+EMP007,2026-03-06,Leave,HR
+EMP007,2026-03-09,Present,HR
+EMP007,2026-03-10,Leave,HR
+EMP007,2026-03-11,Present,HR
+EMP007,2026-03-12,Present,HR
+EMP007,2026-03-13,Absent,HR
+EMP007,2026-03-16,Present,HR
+EMP007,2026-03-17,Present,HR
+EMP007,2026-03-18,Absent,HR
+EMP007,2026-03-19,Absent,HR
+EMP007,2026-03-20,Present,HR
+EMP007,2026-03-23,Absent,HR
+EMP007,2026-03-24,Present,HR
+EMP007,2026-03-25,Present,HR
+EMP007,2026-03-26,Present,HR
+EMP007,2026-03-27,Present,HR
+EMP007,2026-03-30,Work From Home,HR
+EMP007,2026-03-31,Present,HR
+EMP007,2026-04-01,Present,HR
+EMP007,2026-04-02,Present,HR
+EMP007,2026-04-03,Work From Home,HR
+EMP007,2026-04-06,Present,HR
+EMP007,2026-04-07,Present,HR
+EMP007,2026-04-08,Present,HR
+EMP007,2026-04-09,Present,HR
+EMP007,2026-04-10,Present,HR
+EMP007,2026-04-13,Leave,HR
+EMP007,2026-04-14,Work From Home,HR
+EMP007,2026-04-15,Present,HR
+EMP007,2026-04-16,Absent,HR
+EMP007,2026-04-17,Work From Home,HR
+EMP007,2026-04-20,Absent,HR
+EMP007,2026-04-21,Present,HR
+EMP007,2026-04-22,Present,HR
+EMP007,2026-04-23,Present,HR
+EMP007,2026-04-24,Present,HR
+EMP007,2026-04-27,Absent,HR
+EMP007,2026-04-28,Work From Home,HR
+EMP007,2026-04-29,Work From Home,HR
+EMP007,2026-04-30,Present,HR
+EMP007,2026-05-01,Present,HR
+EMP007,2026-05-04,Work From Home,HR
+EMP007,2026-05-05,Leave,HR
+EMP007,2026-05-06,Present,HR
+EMP007,2026-05-07,Work From Home,HR
+EMP007,2026-05-08,Leave,HR
+EMP007,2026-05-11,Present,HR
+EMP007,2026-05-12,Present,HR
+EMP007,2026-05-13,Present,HR
+EMP007,2026-05-14,Present,HR
+EMP007,2026-05-15,Present,HR
+EMP007,2026-05-18,Absent,HR
+EMP007,2026-05-19,Present,HR
+EMP007,2026-05-20,Present,HR
+EMP007,2026-05-21,Present,HR
+EMP007,2026-05-22,Present,HR
+EMP007,2026-05-25,Work From Home,HR
+EMP007,2026-05-26,Present,HR
+EMP007,2026-05-27,Present,HR
+EMP007,2026-05-28,Absent,HR
+EMP007,2026-05-29,Present,HR
+EMP007,2026-06-01,Present,HR
+EMP007,2026-06-02,Present,HR
+EMP007,2026-06-03,Present,HR
+EMP007,2026-06-04,Present,HR
+EMP007,2026-06-05,Present,HR
+EMP007,2026-06-08,Present,HR
+EMP007,2026-06-09,Work From Home,HR
+EMP007,2026-06-10,Present,HR
+EMP007,2026-06-11,Present,HR
+EMP007,2026-06-12,Present,HR
+EMP007,2026-06-15,Present,HR
+EMP007,2026-06-16,Present,HR
+EMP007,2026-06-17,Present,HR
+EMP007,2026-06-18,Work From Home,HR
+EMP007,2026-06-19,Present,HR
+EMP007,2026-06-22,Present,HR
+EMP007,2026-06-23,Present,HR
+EMP007,2026-06-24,Work From Home,HR
+EMP007,2026-06-25,Present,HR
+EMP007,2026-06-26,Present,HR
+EMP007,2026-06-29,Present,HR
+EMP007,2026-06-30,Absent,HR
+EMP007,2026-07-01,Present,HR
+EMP007,2026-07-02,Work From Home,HR
+EMP007,2026-07-03,Present,HR
+EMP007,2026-07-06,Present,HR
+EMP007,2026-07-07,Present,HR
+EMP007,2026-07-08,Present,HR
+EMP007,2026-07-09,Present,HR
+EMP007,2026-07-10,Present,HR
+EMP007,2026-07-13,Absent,HR
+EMP007,2026-07-14,Present,HR
+EMP007,2026-07-15,Present,HR
+EMP007,2026-07-16,Present,HR
+EMP007,2026-07-17,Present,HR
+EMP007,2026-07-20,Present,HR
+EMP007,2026-07-21,Present,HR
+EMP007,2026-07-22,Present,HR
+EMP008,2026-02-02,Work From Home,Finance
+EMP008,2026-02-03,Present,Finance
+EMP008,2026-02-04,Present,Finance
+EMP008,2026-02-05,Present,Finance
+EMP008,2026-02-06,Present,Finance
+EMP008,2026-02-09,Present,Finance
+EMP008,2026-02-10,Present,Finance
+EMP008,2026-02-11,Present,Finance
+EMP008,2026-02-12,Present,Finance
+EMP008,2026-02-13,Present,Finance
+EMP008,2026-02-16,Present,Finance
+EMP008,2026-02-17,Present,Finance
+EMP008,2026-02-18,Present,Finance
+EMP008,2026-02-19,Present,Finance
+EMP008,2026-02-20,Present,Finance
+EMP008,2026-02-23,Absent,Finance
+EMP008,2026-02-24,Present,Finance
+EMP008,2026-02-25,Present,Finance
+EMP008,2026-02-26,Present,Finance
+EMP008,2026-02-27,Present,Finance
+EMP008,2026-03-02,Present,Finance
+EMP008,2026-03-03,Present,Finance
+EMP008,2026-03-04,Leave,Finance
+EMP008,2026-03-05,Absent,Finance
+EMP008,2026-03-06,Present,Finance
+EMP008,2026-03-09,Present,Finance
+EMP008,2026-03-10,Present,Finance
+EMP008,2026-03-11,Present,Finance
+EMP008,2026-03-12,Leave,Finance
+EMP008,2026-03-13,Present,Finance
+EMP008,2026-03-16,Present,Finance
+EMP008,2026-03-17,Present,Finance
+EMP008,2026-03-18,Present,Finance
+EMP008,2026-03-19,Present,Finance
+EMP008,2026-03-20,Present,Finance
+EMP008,2026-03-23,Present,Finance
+EMP008,2026-03-24,Leave,Finance
+EMP008,2026-03-25,Absent,Finance
+EMP008,2026-03-26,Present,Finance
+EMP008,2026-03-27,Present,Finance
+EMP008,2026-03-30,Present,Finance
+EMP008,2026-03-31,Present,Finance
+EMP008,2026-04-01,Present,Finance
+EMP008,2026-04-02,Present,Finance
+EMP008,2026-04-03,Present,Finance
+EMP008,2026-04-06,Present,Finance
+EMP008,2026-04-07,Present,Finance
+EMP008,2026-04-08,Present,Finance
+EMP008,2026-04-09,Work From Home,Finance
+EMP008,2026-04-10,Absent,Finance
+EMP008,2026-04-13,Present,Finance
+EMP008,2026-04-14,Leave,Finance
+EMP008,2026-04-15,Present,Finance
+EMP008,2026-04-16,Leave,Finance
+EMP008,2026-04-17,Absent,Finance
+EMP008,2026-04-20,Present,Finance
+EMP008,2026-04-21,Present,Finance
+EMP008,2026-04-22,Present,Finance
+EMP008,2026-04-23,Present,Finance
+EMP008,2026-04-24,Present,Finance
+EMP008,2026-04-27,Present,Finance
+EMP008,2026-04-28,Present,Finance
+EMP008,2026-04-29,Absent,Finance
+EMP008,2026-04-30,Work From Home,Finance
+EMP008,2026-05-01,Present,Finance
+EMP008,2026-05-04,Present,Finance
+EMP008,2026-05-05,Present,Finance
+EMP008,2026-05-06,Present,Finance
+EMP008,2026-05-07,Leave,Finance
+EMP008,2026-05-08,Present,Finance
+EMP008,2026-05-11,Present,Finance
+EMP008,2026-05-12,Present,Finance
+EMP008,2026-05-13,Present,Finance
+EMP008,2026-05-14,Present,Finance
+EMP008,2026-05-15,Absent,Finance
+EMP008,2026-05-18,Present,Finance
+EMP008,2026-05-19,Present,Finance
+EMP008,2026-05-20,Present,Finance
+EMP008,2026-05-21,Leave,Finance
+EMP008,2026-05-22,Leave,Finance
+EMP008,2026-05-25,Present,Finance
+EMP008,2026-05-26,Present,Finance
+EMP008,2026-05-27,Present,Finance
+EMP008,2026-05-28,Present,Finance
+EMP008,2026-05-29,Leave,Finance
+EMP008,2026-06-01,Present,Finance
+EMP008,2026-06-02,Present,Finance
+EMP008,2026-06-03,Present,Finance
+EMP008,2026-06-04,Present,Finance
+EMP008,2026-06-05,Present,Finance
+EMP008,2026-06-08,Present,Finance
+EMP008,2026-06-09,Present,Finance
+EMP008,2026-06-10,Present,Finance
+EMP008,2026-06-11,Present,Finance
+EMP008,2026-06-12,Present,Finance
+EMP008,2026-06-15,Present,Finance
+EMP008,2026-06-16,Present,Finance
+EMP008,2026-06-17,Present,Finance
+EMP008,2026-06-18,Present,Finance
+EMP008,2026-06-19,Present,Finance
+EMP008,2026-06-22,Present,Finance
+EMP008,2026-06-23,Present,Finance
+EMP008,2026-06-24,Work From Home,Finance
+EMP008,2026-06-25,Present,Finance
+EMP008,2026-06-26,Present,Finance
+EMP008,2026-06-29,Present,Finance
+EMP008,2026-06-30,Present,Finance
+EMP008,2026-07-01,Present,Finance
+EMP008,2026-07-02,Present,Finance
+EMP008,2026-07-03,Present,Finance
+EMP008,2026-07-06,Present,Finance
+EMP008,2026-07-07,Present,Finance
+EMP008,2026-07-08,Absent,Finance
+EMP008,2026-07-09,Present,Finance
+EMP008,2026-07-10,Present,Finance
+EMP008,2026-07-13,Present,Finance
+EMP008,2026-07-14,Present,Finance
+EMP008,2026-07-15,Present,Finance
+EMP008,2026-07-16,Present,Finance
+EMP008,2026-07-17,Present,Finance
+EMP008,2026-07-20,Absent,Finance
+EMP008,2026-07-21,Absent,Finance
+EMP008,2026-07-22,Present,Finance
+EMP009,2026-02-02,Present,Sales
+EMP009,2026-02-03,Present,Sales
+EMP009,2026-02-04,Present,Sales
+EMP009,2026-02-05,Work From Home,Sales
+EMP009,2026-02-06,Present,Sales
+EMP009,2026-02-09,Work From Home,Sales
+EMP009,2026-02-10,Present,Sales
+EMP009,2026-02-11,Present,Sales
+EMP009,2026-02-12,Present,Sales
+EMP009,2026-02-13,Leave,Sales
+EMP009,2026-02-16,Absent,Sales
+EMP009,2026-02-17,Absent,Sales
+EMP009,2026-02-18,Present,Sales
+EMP009,2026-02-19,Present,Sales
+EMP009,2026-02-20,Leave,Sales
+EMP009,2026-02-23,Present,Sales
+EMP009,2026-02-24,Present,Sales
+EMP009,2026-02-25,Present,Sales
+EMP009,2026-02-26,Work From Home,Sales
+EMP009,2026-02-27,Work From Home,Sales
+EMP009,2026-03-02,Present,Sales
+EMP009,2026-03-03,Absent,Sales
+EMP009,2026-03-04,Work From Home,Sales
+EMP009,2026-03-05,Present,Sales
+EMP009,2026-03-06,Present,Sales
+EMP009,2026-03-09,Work From Home,Sales
+EMP009,2026-03-10,Present,Sales
+EMP009,2026-03-11,Absent,Sales
+EMP009,2026-03-12,Present,Sales
+EMP009,2026-03-13,Work From Home,Sales
+EMP009,2026-03-16,Work From Home,Sales
+EMP009,2026-03-17,Work From Home,Sales
+EMP009,2026-03-18,Present,Sales
+EMP009,2026-03-19,Leave,Sales
+EMP009,2026-03-20,Leave,Sales
+EMP009,2026-03-23,Present,Sales
+EMP009,2026-03-24,Leave,Sales
+EMP009,2026-03-25,Present,Sales
+EMP009,2026-03-26,Present,Sales
+EMP009,2026-03-27,Present,Sales
+EMP009,2026-03-30,Present,Sales
+EMP009,2026-03-31,Present,Sales
+EMP009,2026-04-01,Present,Sales
+EMP009,2026-04-02,Present,Sales
+EMP009,2026-04-03,Absent,Sales
+EMP009,2026-04-06,Present,Sales
+EMP009,2026-04-07,Present,Sales
+EMP009,2026-04-08,Present,Sales
+EMP009,2026-04-09,Absent,Sales
+EMP009,2026-04-10,Present,Sales
+EMP009,2026-04-13,Present,Sales
+EMP009,2026-04-14,Leave,Sales
+EMP009,2026-04-15,Present,Sales
+EMP009,2026-04-16,Present,Sales
+EMP009,2026-04-17,Present,Sales
+EMP009,2026-04-20,Leave,Sales
+EMP009,2026-04-21,Present,Sales
+EMP009,2026-04-22,Leave,Sales
+EMP009,2026-04-23,Present,Sales
+EMP009,2026-04-24,Work From Home,Sales
+EMP009,2026-04-27,Absent,Sales
+EMP009,2026-04-28,Work From Home,Sales
+EMP009,2026-04-29,Present,Sales
+EMP009,2026-04-30,Absent,Sales
+EMP009,2026-05-01,Present,Sales
+EMP009,2026-05-04,Present,Sales
+EMP009,2026-05-05,Present,Sales
+EMP009,2026-05-06,Leave,Sales
+EMP009,2026-05-07,Work From Home,Sales
+EMP009,2026-05-08,Absent,Sales
+EMP009,2026-05-11,Present,Sales
+EMP009,2026-05-12,Present,Sales
+EMP009,2026-05-13,Absent,Sales
+EMP009,2026-05-14,Present,Sales
+EMP009,2026-05-15,Present,Sales
+EMP009,2026-05-18,Present,Sales
+EMP009,2026-05-19,Present,Sales
+EMP009,2026-05-20,Present,Sales
+EMP009,2026-05-21,Present,Sales
+EMP009,2026-05-22,Present,Sales
+EMP009,2026-05-25,Present,Sales
+EMP009,2026-05-26,Work From Home,Sales
+EMP009,2026-05-27,Present,Sales
+EMP009,2026-05-28,Present,Sales
+EMP009,2026-05-29,Present,Sales
+EMP009,2026-06-01,Present,Sales
+EMP009,2026-06-02,Work From Home,Sales
+EMP009,2026-06-03,Absent,Sales
+EMP009,2026-06-04,Present,Sales
+EMP009,2026-06-05,Present,Sales
+EMP009,2026-06-08,Leave,Sales
+EMP009,2026-06-09,Work From Home,Sales
+EMP009,2026-06-10,Present,Sales
+EMP009,2026-06-11,Present,Sales
+EMP009,2026-06-12,Present,Sales
+EMP009,2026-06-15,Work From Home,Sales
+EMP009,2026-06-16,Present,Sales
+EMP009,2026-06-17,Work From Home,Sales
+EMP009,2026-06-18,Present,Sales
+EMP009,2026-06-19,Present,Sales
+EMP009,2026-06-22,Present,Sales
+EMP009,2026-06-23,Present,Sales
+EMP009,2026-06-24,Present,Sales
+EMP009,2026-06-25,Present,Sales
+EMP009,2026-06-26,Present,Sales
+EMP009,2026-06-29,Absent,Sales
+EMP009,2026-06-30,Present,Sales
+EMP009,2026-07-01,Present,Sales
+EMP009,2026-07-02,Work From Home,Sales
+EMP009,2026-07-03,Leave,Sales
+EMP009,2026-07-06,Work From Home,Sales
+EMP009,2026-07-07,Work From Home,Sales
+EMP009,2026-07-08,Present,Sales
+EMP009,2026-07-09,Present,Sales
+EMP009,2026-07-10,Absent,Sales
+EMP009,2026-07-13,Present,Sales
+EMP009,2026-07-14,Present,Sales
+EMP009,2026-07-15,Leave,Sales
+EMP009,2026-07-16,Present,Sales
+EMP009,2026-07-17,Present,Sales
+EMP009,2026-07-20,Present,Sales
+EMP009,2026-07-21,Present,Sales
+EMP009,2026-07-22,Present,Sales
+EMP010,2026-02-02,Leave,Marketing
+EMP010,2026-02-03,Present,Marketing
+EMP010,2026-02-04,Present,Marketing
+EMP010,2026-02-05,Work From Home,Marketing
+EMP010,2026-02-06,Work From Home,Marketing
+EMP010,2026-02-09,Leave,Marketing
+EMP010,2026-02-10,Leave,Marketing
+EMP010,2026-02-11,Present,Marketing
+EMP010,2026-02-12,Present,Marketing
+EMP010,2026-02-13,Present,Marketing
+EMP010,2026-02-16,Present,Marketing
+EMP010,2026-02-17,Present,Marketing
+EMP010,2026-02-18,Present,Marketing
+EMP010,2026-02-19,Absent,Marketing
+EMP010,2026-02-20,Present,Marketing
+EMP010,2026-02-23,Present,Marketing
+EMP010,2026-02-24,Present,Marketing
+EMP010,2026-02-25,Absent,Marketing
+EMP010,2026-02-26,Present,Marketing
+EMP010,2026-02-27,Leave,Marketing
+EMP010,2026-03-02,Present,Marketing
+EMP010,2026-03-03,Present,Marketing
+EMP010,2026-03-04,Present,Marketing
+EMP010,2026-03-05,Leave,Marketing
+EMP010,2026-03-06,Present,Marketing
+EMP010,2026-03-09,Present,Marketing
+EMP010,2026-03-10,Present,Marketing
+EMP010,2026-03-11,Present,Marketing
+EMP010,2026-03-12,Leave,Marketing
+EMP010,2026-03-13,Absent,Marketing
+EMP010,2026-03-16,Present,Marketing
+EMP010,2026-03-17,Leave,Marketing
+EMP010,2026-03-18,Leave,Marketing
+EMP010,2026-03-19,Absent,Marketing
+EMP010,2026-03-20,Leave,Marketing
+EMP010,2026-03-23,Absent,Marketing
+EMP010,2026-03-24,Absent,Marketing
+EMP010,2026-03-25,Present,Marketing
+EMP010,2026-03-26,Absent,Marketing
+EMP010,2026-03-27,Present,Marketing
+EMP010,2026-03-30,Work From Home,Marketing
+EMP010,2026-03-31,Leave,Marketing
+EMP010,2026-04-01,Present,Marketing
+EMP010,2026-04-02,Leave,Marketing
+EMP010,2026-04-03,Present,Marketing
+EMP010,2026-04-06,Present,Marketing
+EMP010,2026-04-07,Absent,Marketing
+EMP010,2026-04-08,Present,Marketing
+EMP010,2026-04-09,Leave,Marketing
+EMP010,2026-04-10,Leave,Marketing
+EMP010,2026-04-13,Present,Marketing
+EMP010,2026-04-14,Present,Marketing
+EMP010,2026-04-15,Present,Marketing
+EMP010,2026-04-16,Present,Marketing
+EMP010,2026-04-17,Work From Home,Marketing
+EMP010,2026-04-20,Present,Marketing
+EMP010,2026-04-21,Present,Marketing
+EMP010,2026-04-22,Present,Marketing
+EMP010,2026-04-23,Present,Marketing
+EMP010,2026-04-24,Absent,Marketing
+EMP010,2026-04-27,Present,Marketing
+EMP010,2026-04-28,Absent,Marketing
+EMP010,2026-04-29,Present,Marketing
+EMP010,2026-04-30,Work From Home,Marketing
+EMP010,2026-05-01,Present,Marketing
+EMP010,2026-05-04,Present,Marketing
+EMP010,2026-05-05,Work From Home,Marketing
+EMP010,2026-05-06,Present,Marketing
+EMP010,2026-05-07,Work From Home,Marketing
+EMP010,2026-05-08,Absent,Marketing
+EMP010,2026-05-11,Present,Marketing
+EMP010,2026-05-12,Present,Marketing
+EMP010,2026-05-13,Absent,Marketing
+EMP010,2026-05-14,Present,Marketing
+EMP010,2026-05-15,Present,Marketing
+EMP010,2026-05-18,Present,Marketing
+EMP010,2026-05-19,Present,Marketing
+EMP010,2026-05-20,Present,Marketing
+EMP010,2026-05-21,Leave,Marketing
+EMP010,2026-05-22,Work From Home,Marketing
+EMP010,2026-05-25,Work From Home,Marketing
+EMP010,2026-05-26,Absent,Marketing
+EMP010,2026-05-27,Present,Marketing
+EMP010,2026-05-28,Absent,Marketing
+EMP010,2026-05-29,Present,Marketing
+EMP010,2026-06-01,Present,Marketing
+EMP010,2026-06-02,Present,Marketing
+EMP010,2026-06-03,Present,Marketing
+EMP010,2026-06-04,Absent,Marketing
+EMP010,2026-06-05,Absent,Marketing
+EMP010,2026-06-08,Present,Marketing
+EMP010,2026-06-09,Present,Marketing
+EMP010,2026-06-10,Work From Home,Marketing
+EMP010,2026-06-11,Present,Marketing
+EMP010,2026-06-12,Present,Marketing
+EMP010,2026-06-15,Present,Marketing
+EMP010,2026-06-16,Absent,Marketing
+EMP010,2026-06-17,Absent,Marketing
+EMP010,2026-06-18,Present,Marketing
+EMP010,2026-06-19,Present,Marketing
+EMP010,2026-06-22,Absent,Marketing
+EMP010,2026-06-23,Present,Marketing
+EMP010,2026-06-24,Present,Marketing
+EMP010,2026-06-25,Work From Home,Marketing
+EMP010,2026-06-26,Present,Marketing
+EMP010,2026-06-29,Present,Marketing
+EMP010,2026-06-30,Work From Home,Marketing
+EMP010,2026-07-01,Present,Marketing
+EMP010,2026-07-02,Present,Marketing
+EMP010,2026-07-03,Present,Marketing
+EMP010,2026-07-06,Present,Marketing
+EMP010,2026-07-07,Work From Home,Marketing
+EMP010,2026-07-08,Present,Marketing
+EMP010,2026-07-09,Work From Home,Marketing
+EMP010,2026-07-10,Present,Marketing
+EMP010,2026-07-13,Present,Marketing
+EMP010,2026-07-14,Present,Marketing
+EMP010,2026-07-15,Present,Marketing
+EMP010,2026-07-16,Present,Marketing
+EMP010,2026-07-17,Leave,Marketing
+EMP010,2026-07-20,Present,Marketing
+EMP010,2026-07-21,Work From Home,Marketing
+EMP010,2026-07-22,Present,Marketing
+EMP011,2026-02-02,Absent,IT
+EMP011,2026-02-03,Absent,IT
+EMP011,2026-02-04,Leave,IT
+EMP011,2026-02-05,Absent,IT
+EMP011,2026-02-06,Present,IT
+EMP011,2026-02-09,Present,IT
+EMP011,2026-02-10,Present,IT
+EMP011,2026-02-11,Work From Home,IT
+EMP011,2026-02-12,Present,IT
+EMP011,2026-02-13,Absent,IT
+EMP011,2026-02-16,Present,IT
+EMP011,2026-02-17,Present,IT
+EMP011,2026-02-18,Present,IT
+EMP011,2026-02-19,Present,IT
+EMP011,2026-02-20,Present,IT
+EMP011,2026-02-23,Present,IT
+EMP011,2026-02-24,Present,IT
+EMP011,2026-02-25,Present,IT
+EMP011,2026-02-26,Present,IT
+EMP011,2026-02-27,Present,IT
+EMP011,2026-03-02,Absent,IT
+EMP011,2026-03-03,Present,IT
+EMP011,2026-03-04,Present,IT
+EMP011,2026-03-05,Present,IT
+EMP011,2026-03-06,Present,IT
+EMP011,2026-03-09,Present,IT
+EMP011,2026-03-10,Present,IT
+EMP011,2026-03-11,Present,IT
+EMP011,2026-03-12,Present,IT
+EMP011,2026-03-13,Present,IT
+EMP011,2026-03-16,Leave,IT
+EMP011,2026-03-17,Absent,IT
+EMP011,2026-03-18,Present,IT
+EMP011,2026-03-19,Present,IT
+EMP011,2026-03-20,Present,IT
+EMP011,2026-03-23,Present,IT
+EMP011,2026-03-24,Work From Home,IT
+EMP011,2026-03-25,Present,IT
+EMP011,2026-03-26,Present,IT
+EMP011,2026-03-27,Present,IT
+EMP011,2026-03-30,Present,IT
+EMP011,2026-03-31,Present,IT
+EMP011,2026-04-01,Present,IT
+EMP011,2026-04-02,Present,IT
+EMP011,2026-04-03,Present,IT
+EMP011,2026-04-06,Present,IT
+EMP011,2026-04-07,Present,IT
+EMP011,2026-04-08,Present,IT
+EMP011,2026-04-09,Present,IT
+EMP011,2026-04-10,Present,IT
+EMP011,2026-04-13,Present,IT
+EMP011,2026-04-14,Present,IT
+EMP011,2026-04-15,Present,IT
+EMP011,2026-04-16,Absent,IT
+EMP011,2026-04-17,Present,IT
+EMP011,2026-04-20,Present,IT
+EMP011,2026-04-21,Present,IT
+EMP011,2026-04-22,Present,IT
+EMP011,2026-04-23,Present,IT
+EMP011,2026-04-24,Present,IT
+EMP011,2026-04-27,Work From Home,IT
+EMP011,2026-04-28,Present,IT
+EMP011,2026-04-29,Present,IT
+EMP011,2026-04-30,Present,IT
+EMP011,2026-05-01,Leave,IT
+EMP011,2026-05-04,Present,IT
+EMP011,2026-05-05,Absent,IT
+EMP011,2026-05-06,Present,IT
+EMP011,2026-05-07,Absent,IT
+EMP011,2026-05-08,Present,IT
+EMP011,2026-05-11,Leave,IT
+EMP011,2026-05-12,Present,IT
+EMP011,2026-05-13,Absent,IT
+EMP011,2026-05-14,Present,IT
+EMP011,2026-05-15,Present,IT
+EMP011,2026-05-18,Present,IT
+EMP011,2026-05-19,Present,IT
+EMP011,2026-05-20,Present,IT
+EMP011,2026-05-21,Present,IT
+EMP011,2026-05-22,Present,IT
+EMP011,2026-05-25,Present,IT
+EMP011,2026-05-26,Leave,IT
+EMP011,2026-05-27,Present,IT
+EMP011,2026-05-28,Work From Home,IT
+EMP011,2026-05-29,Present,IT
+EMP011,2026-06-01,Present,IT
+EMP011,2026-06-02,Absent,IT
+EMP011,2026-06-03,Present,IT
+EMP011,2026-06-04,Present,IT
+EMP011,2026-06-05,Present,IT
+EMP011,2026-06-08,Present,IT
+EMP011,2026-06-09,Present,IT
+EMP011,2026-06-10,Work From Home,IT
+EMP011,2026-06-11,Work From Home,IT
+EMP011,2026-06-12,Present,IT
+EMP011,2026-06-15,Present,IT
+EMP011,2026-06-16,Present,IT
+EMP011,2026-06-17,Present,IT
+EMP011,2026-06-18,Present,IT
+EMP011,2026-06-19,Present,IT
+EMP011,2026-06-22,Present,IT
+EMP011,2026-06-23,Leave,IT
+EMP011,2026-06-24,Present,IT
+EMP011,2026-06-25,Present,IT
+EMP011,2026-06-26,Present,IT
+EMP011,2026-06-29,Present,IT
+EMP011,2026-06-30,Present,IT
+EMP011,2026-07-01,Work From Home,IT
+EMP011,2026-07-02,Present,IT
+EMP011,2026-07-03,Leave,IT
+EMP011,2026-07-06,Present,IT
+EMP011,2026-07-07,Present,IT
+EMP011,2026-07-08,Present,IT
+EMP011,2026-07-09,Present,IT
+EMP011,2026-07-10,Leave,IT
+EMP011,2026-07-13,Leave,IT
+EMP011,2026-07-14,Present,IT
+EMP011,2026-07-15,Present,IT
+EMP011,2026-07-16,Present,IT
+EMP011,2026-07-17,Leave,IT
+EMP011,2026-07-20,Present,IT
+EMP011,2026-07-21,Present,IT
+EMP011,2026-07-22,Present,IT
+EMP012,2026-02-02,Present,HR
+EMP012,2026-02-03,Present,HR
+EMP012,2026-02-04,Leave,HR
+EMP012,2026-02-05,Present,HR
+EMP012,2026-02-06,Present,HR
+EMP012,2026-02-09,Work From Home,HR
+EMP012,2026-02-10,Present,HR
+EMP012,2026-02-11,Leave,HR
+EMP012,2026-02-12,Present,HR
+EMP012,2026-02-13,Present,HR
+EMP012,2026-02-16,Leave,HR
+EMP012,2026-02-17,Present,HR
+EMP012,2026-02-18,Present,HR
+EMP012,2026-02-19,Present,HR
+EMP012,2026-02-20,Present,HR
+EMP012,2026-02-23,Present,HR
+EMP012,2026-02-24,Present,HR
+EMP012,2026-02-25,Work From Home,HR
+EMP012,2026-02-26,Present,HR
+EMP012,2026-02-27,Present,HR
+EMP012,2026-03-02,Present,HR
+EMP012,2026-03-03,Absent,HR
+EMP012,2026-03-04,Present,HR
+EMP012,2026-03-05,Work From Home,HR
+EMP012,2026-03-06,Present,HR
+EMP012,2026-03-09,Present,HR
+EMP012,2026-03-10,Present,HR
+EMP012,2026-03-11,Present,HR
+EMP012,2026-03-12,Present,HR
+EMP012,2026-03-13,Present,HR
+EMP012,2026-03-16,Absent,HR
+EMP012,2026-03-17,Present,HR
+EMP012,2026-03-18,Present,HR
+EMP012,2026-03-19,Present,HR
+EMP012,2026-03-20,Present,HR
+EMP012,2026-03-23,Present,HR
+EMP012,2026-03-24,Present,HR
+EMP012,2026-03-25,Present,HR
+EMP012,2026-03-26,Present,HR
+EMP012,2026-03-27,Present,HR
+EMP012,2026-03-30,Present,HR
+EMP012,2026-03-31,Leave,HR
+EMP012,2026-04-01,Absent,HR
+EMP012,2026-04-02,Present,HR
+EMP012,2026-04-03,Leave,HR
+EMP012,2026-04-06,Present,HR
+EMP012,2026-04-07,Present,HR
+EMP012,2026-04-08,Present,HR
+EMP012,2026-04-09,Present,HR
+EMP012,2026-04-10,Present,HR
+EMP012,2026-04-13,Work From Home,HR
+EMP012,2026-04-14,Present,HR
+EMP012,2026-04-15,Present,HR
+EMP012,2026-04-16,Present,HR
+EMP012,2026-04-17,Work From Home,HR
+EMP012,2026-04-20,Present,HR
+EMP012,2026-04-21,Present,HR
+EMP012,2026-04-22,Present,HR
+EMP012,2026-04-23,Present,HR
+EMP012,2026-04-24,Work From Home,HR
+EMP012,2026-04-27,Work From Home,HR
+EMP012,2026-04-28,Present,HR
+EMP012,2026-04-29,Work From Home,HR
+EMP012,2026-04-30,Present,HR
+EMP012,2026-05-01,Leave,HR
+EMP012,2026-05-04,Present,HR
+EMP012,2026-05-05,Present,HR
+EMP012,2026-05-06,Present,HR
+EMP012,2026-05-07,Present,HR
+EMP012,2026-05-08,Present,HR
+EMP012,2026-05-11,Present,HR
+EMP012,2026-05-12,Present,HR
+EMP012,2026-05-13,Present,HR
+EMP012,2026-05-14,Present,HR
+EMP012,2026-05-15,Present,HR
+EMP012,2026-05-18,Work From Home,HR
+EMP012,2026-05-19,Present,HR
+EMP012,2026-05-20,Present,HR
+EMP012,2026-05-21,Present,HR
+EMP012,2026-05-22,Leave,HR
+EMP012,2026-05-25,Present,HR
+EMP012,2026-05-26,Present,HR
+EMP012,2026-05-27,Leave,HR
+EMP012,2026-05-28,Work From Home,HR
+EMP012,2026-05-29,Present,HR
+EMP012,2026-06-01,Present,HR
+EMP012,2026-06-02,Present,HR
+EMP012,2026-06-03,Leave,HR
+EMP012,2026-06-04,Present,HR
+EMP012,2026-06-05,Present,HR
+EMP012,2026-06-08,Work From Home,HR
+EMP012,2026-06-09,Present,HR
+EMP012,2026-06-10,Present,HR
+EMP012,2026-06-11,Present,HR
+EMP012,2026-06-12,Present,HR
+EMP012,2026-06-15,Present,HR
+EMP012,2026-06-16,Present,HR
+EMP012,2026-06-17,Present,HR
+EMP012,2026-06-18,Present,HR
+EMP012,2026-06-19,Work From Home,HR
+EMP012,2026-06-22,Present,HR
+EMP012,2026-06-23,Work From Home,HR
+EMP012,2026-06-24,Present,HR
+EMP012,2026-06-25,Leave,HR
+EMP012,2026-06-26,Absent,HR
+EMP012,2026-06-29,Present,HR
+EMP012,2026-06-30,Present,HR
+EMP012,2026-07-01,Leave,HR
+EMP012,2026-07-02,Present,HR
+EMP012,2026-07-03,Present,HR
+EMP012,2026-07-06,Present,HR
+EMP012,2026-07-07,Absent,HR
+EMP012,2026-07-08,Absent,HR
+EMP012,2026-07-09,Absent,HR
+EMP012,2026-07-10,Present,HR
+EMP012,2026-07-13,Absent,HR
+EMP012,2026-07-14,Present,HR
+EMP012,2026-07-15,Present,HR
+EMP012,2026-07-16,Present,HR
+EMP012,2026-07-17,Present,HR
+EMP012,2026-07-20,Present,HR
+EMP012,2026-07-21,Present,HR
+EMP012,2026-07-22,Present,HR
+EMP013,2026-02-02,Present,Finance
+EMP013,2026-02-03,Present,Finance
+EMP013,2026-02-04,Present,Finance
+EMP013,2026-02-05,Present,Finance
+EMP013,2026-02-06,Present,Finance
+EMP013,2026-02-09,Present,Finance
+EMP013,2026-02-10,Present,Finance
+EMP013,2026-02-11,Present,Finance
+EMP013,2026-02-12,Present,Finance
+EMP013,2026-02-13,Present,Finance
+EMP013,2026-02-16,Leave,Finance
+EMP013,2026-02-17,Present,Finance
+EMP013,2026-02-18,Present,Finance
+EMP013,2026-02-19,Present,Finance
+EMP013,2026-02-20,Present,Finance
+EMP013,2026-02-23,Present,Finance
+EMP013,2026-02-24,Present,Finance
+EMP013,2026-02-25,Present,Finance
+EMP013,2026-02-26,Present,Finance
+EMP013,2026-02-27,Present,Finance
+EMP013,2026-03-02,Absent,Finance
+EMP013,2026-03-03,Absent,Finance
+EMP013,2026-03-04,Absent,Finance
+EMP013,2026-03-05,Work From Home,Finance
+EMP013,2026-03-06,Present,Finance
+EMP013,2026-03-09,Present,Finance
+EMP013,2026-03-10,Present,Finance
+EMP013,2026-03-11,Present,Finance
+EMP013,2026-03-12,Work From Home,Finance
+EMP013,2026-03-13,Present,Finance
+EMP013,2026-03-16,Work From Home,Finance
+EMP013,2026-03-17,Present,Finance
+EMP013,2026-03-18,Work From Home,Finance
+EMP013,2026-03-19,Present,Finance
+EMP013,2026-03-20,Present,Finance
+EMP013,2026-03-23,Present,Finance
+EMP013,2026-03-24,Present,Finance
+EMP013,2026-03-25,Present,Finance
+EMP013,2026-03-26,Present,Finance
+EMP013,2026-03-27,Absent,Finance
+EMP013,2026-03-30,Present,Finance
+EMP013,2026-03-31,Present,Finance
+EMP013,2026-04-01,Present,Finance
+EMP013,2026-04-02,Absent,Finance
+EMP013,2026-04-03,Present,Finance
+EMP013,2026-04-06,Present,Finance
+EMP013,2026-04-07,Present,Finance
+EMP013,2026-04-08,Present,Finance
+EMP013,2026-04-09,Present,Finance
+EMP013,2026-04-10,Present,Finance
+EMP013,2026-04-13,Present,Finance
+EMP013,2026-04-14,Absent,Finance
+EMP013,2026-04-15,Present,Finance
+EMP013,2026-04-16,Present,Finance
+EMP013,2026-04-17,Present,Finance
+EMP013,2026-04-20,Work From Home,Finance
+EMP013,2026-04-21,Present,Finance
+EMP013,2026-04-22,Absent,Finance
+EMP013,2026-04-23,Present,Finance
+EMP013,2026-04-24,Present,Finance
+EMP013,2026-04-27,Present,Finance
+EMP013,2026-04-28,Work From Home,Finance
+EMP013,2026-04-29,Present,Finance
+EMP013,2026-04-30,Leave,Finance
+EMP013,2026-05-01,Leave,Finance
+EMP013,2026-05-04,Present,Finance
+EMP013,2026-05-05,Present,Finance
+EMP013,2026-05-06,Present,Finance
+EMP013,2026-05-07,Present,Finance
+EMP013,2026-05-08,Leave,Finance
+EMP013,2026-05-11,Work From Home,Finance
+EMP013,2026-05-12,Present,Finance
+EMP013,2026-05-13,Present,Finance
+EMP013,2026-05-14,Absent,Finance
+EMP013,2026-05-15,Present,Finance
+EMP013,2026-05-18,Leave,Finance
+EMP013,2026-05-19,Present,Finance
+EMP013,2026-05-20,Present,Finance
+EMP013,2026-05-21,Present,Finance
+EMP013,2026-05-22,Present,Finance
+EMP013,2026-05-25,Present,Finance
+EMP013,2026-05-26,Present,Finance
+EMP013,2026-05-27,Present,Finance
+EMP013,2026-05-28,Absent,Finance
+EMP013,2026-05-29,Leave,Finance
+EMP013,2026-06-01,Present,Finance
+EMP013,2026-06-02,Present,Finance
+EMP013,2026-06-03,Present,Finance
+EMP013,2026-06-04,Present,Finance
+EMP013,2026-06-05,Present,Finance
+EMP013,2026-06-08,Present,Finance
+EMP013,2026-06-09,Present,Finance
+EMP013,2026-06-10,Present,Finance
+EMP013,2026-06-11,Present,Finance
+EMP013,2026-06-12,Present,Finance
+EMP013,2026-06-15,Work From Home,Finance
+EMP013,2026-06-16,Present,Finance
+EMP013,2026-06-17,Present,Finance
+EMP013,2026-06-18,Present,Finance
+EMP013,2026-06-19,Present,Finance
+EMP013,2026-06-22,Absent,Finance
+EMP013,2026-06-23,Present,Finance
+EMP013,2026-06-24,Work From Home,Finance
+EMP013,2026-06-25,Present,Finance
+EMP013,2026-06-26,Present,Finance
+EMP013,2026-06-29,Absent,Finance
+EMP013,2026-06-30,Present,Finance
+EMP013,2026-07-01,Present,Finance
+EMP013,2026-07-02,Present,Finance
+EMP013,2026-07-03,Present,Finance
+EMP013,2026-07-06,Leave,Finance
+EMP013,2026-07-07,Present,Finance
+EMP013,2026-07-08,Present,Finance
+EMP013,2026-07-09,Present,Finance
+EMP013,2026-07-10,Present,Finance
+EMP013,2026-07-13,Present,Finance
+EMP013,2026-07-14,Present,Finance
+EMP013,2026-07-15,Present,Finance
+EMP013,2026-07-16,Absent,Finance
+EMP013,2026-07-17,Present,Finance
+EMP013,2026-07-20,Present,Finance
+EMP013,2026-07-21,Leave,Finance
+EMP013,2026-07-22,Present,Finance
+EMP014,2026-02-02,Present,Sales
+EMP014,2026-02-03,Present,Sales
+EMP014,2026-02-04,Present,Sales
+EMP014,2026-02-05,Work From Home,Sales
+EMP014,2026-02-06,Present,Sales
+EMP014,2026-02-09,Present,Sales
+EMP014,2026-02-10,Absent,Sales
+EMP014,2026-02-11,Present,Sales
+EMP014,2026-02-12,Present,Sales
+EMP014,2026-02-13,Present,Sales
+EMP014,2026-02-16,Work From Home,Sales
+EMP014,2026-02-17,Present,Sales
+EMP014,2026-02-18,Present,Sales
+EMP014,2026-02-19,Present,Sales
+EMP014,2026-02-20,Present,Sales
+EMP014,2026-02-23,Present,Sales
+EMP014,2026-02-24,Present,Sales
+EMP014,2026-02-25,Absent,Sales
+EMP014,2026-02-26,Present,Sales
+EMP014,2026-02-27,Present,Sales
+EMP014,2026-03-02,Absent,Sales
+EMP014,2026-03-03,Work From Home,Sales
+EMP014,2026-03-04,Present,Sales
+EMP014,2026-03-05,Present,Sales
+EMP014,2026-03-06,Present,Sales
+EMP014,2026-03-09,Work From Home,Sales
+EMP014,2026-03-10,Work From Home,Sales
+EMP014,2026-03-11,Present,Sales
+EMP014,2026-03-12,Leave,Sales
+EMP014,2026-03-13,Present,Sales
+EMP014,2026-03-16,Present,Sales
+EMP014,2026-03-17,Present,Sales
+EMP014,2026-03-18,Absent,Sales
+EMP014,2026-03-19,Present,Sales
+EMP014,2026-03-20,Leave,Sales
+EMP014,2026-03-23,Absent,Sales
+EMP014,2026-03-24,Present,Sales
+EMP014,2026-03-25,Present,Sales
+EMP014,2026-03-26,Present,Sales
+EMP014,2026-03-27,Present,Sales
+EMP014,2026-03-30,Present,Sales
+EMP014,2026-03-31,Present,Sales
+EMP014,2026-04-01,Work From Home,Sales
+EMP014,2026-04-02,Present,Sales
+EMP014,2026-04-03,Present,Sales
+EMP014,2026-04-06,Present,Sales
+EMP014,2026-04-07,Present,Sales
+EMP014,2026-04-08,Present,Sales
+EMP014,2026-04-09,Present,Sales
+EMP014,2026-04-10,Work From Home,Sales
+EMP014,2026-04-13,Present,Sales
+EMP014,2026-04-14,Work From Home,Sales
+EMP014,2026-04-15,Leave,Sales
+EMP014,2026-04-16,Present,Sales
+EMP014,2026-04-17,Work From Home,Sales
+EMP014,2026-04-20,Present,Sales
+EMP014,2026-04-21,Absent,Sales
+EMP014,2026-04-22,Present,Sales
+EMP014,2026-04-23,Leave,Sales
+EMP014,2026-04-24,Leave,Sales
+EMP014,2026-04-27,Absent,Sales
+EMP014,2026-04-28,Absent,Sales
+EMP014,2026-04-29,Present,Sales
+EMP014,2026-04-30,Present,Sales
+EMP014,2026-05-01,Present,Sales
+EMP014,2026-05-04,Present,Sales
+EMP014,2026-05-05,Present,Sales
+EMP014,2026-05-06,Present,Sales
+EMP014,2026-05-07,Work From Home,Sales
+EMP014,2026-05-08,Present,Sales
+EMP014,2026-05-11,Leave,Sales
+EMP014,2026-05-12,Present,Sales
+EMP014,2026-05-13,Leave,Sales
+EMP014,2026-05-14,Work From Home,Sales
+EMP014,2026-05-15,Present,Sales
+EMP014,2026-05-18,Present,Sales
+EMP014,2026-05-19,Absent,Sales
+EMP014,2026-05-20,Present,Sales
+EMP014,2026-05-21,Present,Sales
+EMP014,2026-05-22,Present,Sales
+EMP014,2026-05-25,Present,Sales
+EMP014,2026-05-26,Present,Sales
+EMP014,2026-05-27,Present,Sales
+EMP014,2026-05-28,Present,Sales
+EMP014,2026-05-29,Present,Sales
+EMP014,2026-06-01,Work From Home,Sales
+EMP014,2026-06-02,Present,Sales
+EMP014,2026-06-03,Work From Home,Sales
+EMP014,2026-06-04,Present,Sales
+EMP014,2026-06-05,Present,Sales
+EMP014,2026-06-08,Present,Sales
+EMP014,2026-06-09,Present,Sales
+EMP014,2026-06-10,Present,Sales
+EMP014,2026-06-11,Present,Sales
+EMP014,2026-06-12,Present,Sales
+EMP014,2026-06-15,Present,Sales
+EMP014,2026-06-16,Present,Sales
+EMP014,2026-06-17,Present,Sales
+EMP014,2026-06-18,Present,Sales
+EMP014,2026-06-19,Absent,Sales
+EMP014,2026-06-22,Present,Sales
+EMP014,2026-06-23,Present,Sales
+EMP014,2026-06-24,Work From Home,Sales
+EMP014,2026-06-25,Present,Sales
+EMP014,2026-06-26,Present,Sales
+EMP014,2026-06-29,Work From Home,Sales
+EMP014,2026-06-30,Present,Sales
+EMP014,2026-07-01,Present,Sales
+EMP014,2026-07-02,Present,Sales
+EMP014,2026-07-03,Present,Sales
+EMP014,2026-07-06,Present,Sales
+EMP014,2026-07-07,Present,Sales
+EMP014,2026-07-08,Present,Sales
+EMP014,2026-07-09,Present,Sales
+EMP014,2026-07-10,Work From Home,Sales
+EMP014,2026-07-13,Absent,Sales
+EMP014,2026-07-14,Present,Sales
+EMP014,2026-07-15,Present,Sales
+EMP014,2026-07-16,Present,Sales
+EMP014,2026-07-17,Present,Sales
+EMP014,2026-07-20,Present,Sales
+EMP014,2026-07-21,Present,Sales
+EMP014,2026-07-22,Leave,Sales
+EMP015,2026-02-02,Present,Marketing
+EMP015,2026-02-03,Present,Marketing
+EMP015,2026-02-04,Present,Marketing
+EMP015,2026-02-05,Leave,Marketing
+EMP015,2026-02-06,Absent,Marketing
+EMP015,2026-02-09,Absent,Marketing
+EMP015,2026-02-10,Present,Marketing
+EMP015,2026-02-11,Present,Marketing
+EMP015,2026-02-12,Present,Marketing
+EMP015,2026-02-13,Present,Marketing
+EMP015,2026-02-16,Present,Marketing
+EMP015,2026-02-17,Absent,Marketing
+EMP015,2026-02-18,Present,Marketing
+EMP015,2026-02-19,Present,Marketing
+EMP015,2026-02-20,Present,Marketing
+EMP015,2026-02-23,Present,Marketing
+EMP015,2026-02-24,Present,Marketing
+EMP015,2026-02-25,Work From Home,Marketing
+EMP015,2026-02-26,Absent,Marketing
+EMP015,2026-02-27,Work From Home,Marketing
+EMP015,2026-03-02,Present,Marketing
+EMP015,2026-03-03,Present,Marketing
+EMP015,2026-03-04,Present,Marketing
+EMP015,2026-03-05,Present,Marketing
+EMP015,2026-03-06,Leave,Marketing
+EMP015,2026-03-09,Present,Marketing
+EMP015,2026-03-10,Present,Marketing
+EMP015,2026-03-11,Present,Marketing
+EMP015,2026-03-12,Present,Marketing
+EMP015,2026-03-13,Absent,Marketing
+EMP015,2026-03-16,Present,Marketing
+EMP015,2026-03-17,Present,Marketing
+EMP015,2026-03-18,Present,Marketing
+EMP015,2026-03-19,Present,Marketing
+EMP015,2026-03-20,Absent,Marketing
+EMP015,2026-03-23,Leave,Marketing
+EMP015,2026-03-24,Work From Home,Marketing
+EMP015,2026-03-25,Absent,Marketing
+EMP015,2026-03-26,Present,Marketing
+EMP015,2026-03-27,Present,Marketing
+EMP015,2026-03-30,Present,Marketing
+EMP015,2026-03-31,Present,Marketing
+EMP015,2026-04-01,Leave,Marketing
+EMP015,2026-04-02,Present,Marketing
+EMP015,2026-04-03,Work From Home,Marketing
+EMP015,2026-04-06,Present,Marketing
+EMP015,2026-04-07,Present,Marketing
+EMP015,2026-04-08,Present,Marketing
+EMP015,2026-04-09,Leave,Marketing
+EMP015,2026-04-10,Present,Marketing
+EMP015,2026-04-13,Present,Marketing
+EMP015,2026-04-14,Present,Marketing
+EMP015,2026-04-15,Present,Marketing
+EMP015,2026-04-16,Present,Marketing
+EMP015,2026-04-17,Absent,Marketing
+EMP015,2026-04-20,Present,Marketing
+EMP015,2026-04-21,Present,Marketing
+EMP015,2026-04-22,Present,Marketing
+EMP015,2026-04-23,Present,Marketing
+EMP015,2026-04-24,Absent,Marketing
+EMP015,2026-04-27,Present,Marketing
+EMP015,2026-04-28,Present,Marketing
+EMP015,2026-04-29,Present,Marketing
+EMP015,2026-04-30,Work From Home,Marketing
+EMP015,2026-05-01,Absent,Marketing
+EMP015,2026-05-04,Present,Marketing
+EMP015,2026-05-05,Present,Marketing
+EMP015,2026-05-06,Present,Marketing
+EMP015,2026-05-07,Absent,Marketing
+EMP015,2026-05-08,Present,Marketing
+EMP015,2026-05-11,Present,Marketing
+EMP015,2026-05-12,Present,Marketing
+EMP015,2026-05-13,Present,Marketing
+EMP015,2026-05-14,Present,Marketing
+EMP015,2026-05-15,Absent,Marketing
+EMP015,2026-05-18,Present,Marketing
+EMP015,2026-05-19,Present,Marketing
+EMP015,2026-05-20,Present,Marketing
+EMP015,2026-05-21,Work From Home,Marketing
+EMP015,2026-05-22,Present,Marketing
+EMP015,2026-05-25,Absent,Marketing
+EMP015,2026-05-26,Present,Marketing
+EMP015,2026-05-27,Present,Marketing
+EMP015,2026-05-28,Present,Marketing
+EMP015,2026-05-29,Present,Marketing
+EMP015,2026-06-01,Present,Marketing
+EMP015,2026-06-02,Absent,Marketing
+EMP015,2026-06-03,Present,Marketing
+EMP015,2026-06-04,Present,Marketing
+EMP015,2026-06-05,Present,Marketing
+EMP015,2026-06-08,Work From Home,Marketing
+EMP015,2026-06-09,Absent,Marketing
+EMP015,2026-06-10,Present,Marketing
+EMP015,2026-06-11,Work From Home,Marketing
+EMP015,2026-06-12,Present,Marketing
+EMP015,2026-06-15,Present,Marketing
+EMP015,2026-06-16,Absent,Marketing
+EMP015,2026-06-17,Absent,Marketing
+EMP015,2026-06-18,Present,Marketing
+EMP015,2026-06-19,Present,Marketing
+EMP015,2026-06-22,Present,Marketing
+EMP015,2026-06-23,Work From Home,Marketing
+EMP015,2026-06-24,Present,Marketing
+EMP015,2026-06-25,Present,Marketing
+EMP015,2026-06-26,Present,Marketing
+EMP015,2026-06-29,Present,Marketing
+EMP015,2026-06-30,Present,Marketing
+EMP015,2026-07-01,Work From Home,Marketing
+EMP015,2026-07-02,Present,Marketing
+EMP015,2026-07-03,Present,Marketing
+EMP015,2026-07-06,Present,Marketing
+EMP015,2026-07-07,Leave,Marketing
+EMP015,2026-07-08,Present,Marketing
+EMP015,2026-07-09,Present,Marketing
+EMP015,2026-07-10,Absent,Marketing
+EMP015,2026-07-13,Leave,Marketing
+EMP015,2026-07-14,Leave,Marketing
+EMP015,2026-07-15,Work From Home,Marketing
+EMP015,2026-07-16,Present,Marketing
+EMP015,2026-07-17,Absent,Marketing
+EMP015,2026-07-20,Present,Marketing
+EMP015,2026-07-21,Leave,Marketing
+EMP015,2026-07-22,Absent,Marketing
+EMP016,2026-02-02,Present,IT
+EMP016,2026-02-03,Present,IT
+EMP016,2026-02-04,Present,IT
+EMP016,2026-02-05,Work From Home,IT
+EMP016,2026-02-06,Work From Home,IT
+EMP016,2026-02-09,Present,IT
+EMP016,2026-02-10,Present,IT
+EMP016,2026-02-11,Present,IT
+EMP016,2026-02-12,Present,IT
+EMP016,2026-02-13,Absent,IT
+EMP016,2026-02-16,Present,IT
+EMP016,2026-02-17,Present,IT
+EMP016,2026-02-18,Leave,IT
+EMP016,2026-02-19,Present,IT
+EMP016,2026-02-20,Present,IT
+EMP016,2026-02-23,Present,IT
+EMP016,2026-02-24,Present,IT
+EMP016,2026-02-25,Present,IT
+EMP016,2026-02-26,Present,IT
+EMP016,2026-02-27,Present,IT
+EMP016,2026-03-02,Leave,IT
+EMP016,2026-03-03,Present,IT
+EMP016,2026-03-04,Absent,IT
+EMP016,2026-03-05,Present,IT
+EMP016,2026-03-06,Present,IT
+EMP016,2026-03-09,Present,IT
+EMP016,2026-03-10,Present,IT
+EMP016,2026-03-11,Present,IT
+EMP016,2026-03-12,Work From Home,IT
+EMP016,2026-03-13,Present,IT
+EMP016,2026-03-16,Present,IT
+EMP016,2026-03-17,Absent,IT
+EMP016,2026-03-18,Present,IT
+EMP016,2026-03-19,Present,IT
+EMP016,2026-03-20,Present,IT
+EMP016,2026-03-23,Present,IT
+EMP016,2026-03-24,Present,IT
+EMP016,2026-03-25,Present,IT
+EMP016,2026-03-26,Absent,IT
+EMP016,2026-03-27,Present,IT
+EMP016,2026-03-30,Present,IT
+EMP016,2026-03-31,Absent,IT
+EMP016,2026-04-01,Present,IT
+EMP016,2026-04-02,Present,IT
+EMP016,2026-04-03,Present,IT
+EMP016,2026-04-06,Work From Home,IT
+EMP016,2026-04-07,Present,IT
+EMP016,2026-04-08,Present,IT
+EMP016,2026-04-09,Present,IT
+EMP016,2026-04-10,Present,IT
+EMP016,2026-04-13,Leave,IT
+EMP016,2026-04-14,Work From Home,IT
+EMP016,2026-04-15,Present,IT
+EMP016,2026-04-16,Present,IT
+EMP016,2026-04-17,Present,IT
+EMP016,2026-04-20,Leave,IT
+EMP016,2026-04-21,Present,IT
+EMP016,2026-04-22,Present,IT
+EMP016,2026-04-23,Present,IT
+EMP016,2026-04-24,Present,IT
+EMP016,2026-04-27,Present,IT
+EMP016,2026-04-28,Present,IT
+EMP016,2026-04-29,Present,IT
+EMP016,2026-04-30,Absent,IT
+EMP016,2026-05-01,Present,IT
+EMP016,2026-05-04,Present,IT
+EMP016,2026-05-05,Present,IT
+EMP016,2026-05-06,Present,IT
+EMP016,2026-05-07,Present,IT
+EMP016,2026-05-08,Present,IT
+EMP016,2026-05-11,Present,IT
+EMP016,2026-05-12,Present,IT
+EMP016,2026-05-13,Present,IT
+EMP016,2026-05-14,Present,IT
+EMP016,2026-05-15,Absent,IT
+EMP016,2026-05-18,Present,IT
+EMP016,2026-05-19,Absent,IT
+EMP016,2026-05-20,Present,IT
+EMP016,2026-05-21,Present,IT
+EMP016,2026-05-22,Present,IT
+EMP016,2026-05-25,Present,IT
+EMP016,2026-05-26,Absent,IT
+EMP016,2026-05-27,Present,IT
+EMP016,2026-05-28,Absent,IT
+EMP016,2026-05-29,Present,IT
+EMP016,2026-06-01,Present,IT
+EMP016,2026-06-02,Present,IT
+EMP016,2026-06-03,Present,IT
+EMP016,2026-06-04,Present,IT
+EMP016,2026-06-05,Present,IT
+EMP016,2026-06-08,Present,IT
+EMP016,2026-06-09,Present,IT
+EMP016,2026-06-10,Present,IT
+EMP016,2026-06-11,Work From Home,IT
+EMP016,2026-06-12,Work From Home,IT
+EMP016,2026-06-15,Present,IT
+EMP016,2026-06-16,Present,IT
+EMP016,2026-06-17,Present,IT
+EMP016,2026-06-18,Absent,IT
+EMP016,2026-06-19,Present,IT
+EMP016,2026-06-22,Present,IT
+EMP016,2026-06-23,Leave,IT
+EMP016,2026-06-24,Present,IT
+EMP016,2026-06-25,Present,IT
+EMP016,2026-06-26,Present,IT
+EMP016,2026-06-29,Present,IT
+EMP016,2026-06-30,Present,IT
+EMP016,2026-07-01,Present,IT
+EMP016,2026-07-02,Present,IT
+EMP016,2026-07-03,Present,IT
+EMP016,2026-07-06,Absent,IT
+EMP016,2026-07-07,Present,IT
+EMP016,2026-07-08,Present,IT
+EMP016,2026-07-09,Present,IT
+EMP016,2026-07-10,Work From Home,IT
+EMP016,2026-07-13,Present,IT
+EMP016,2026-07-14,Present,IT
+EMP016,2026-07-15,Leave,IT
+EMP016,2026-07-16,Leave,IT
+EMP016,2026-07-17,Present,IT
+EMP016,2026-07-20,Absent,IT
+EMP016,2026-07-21,Present,IT
+EMP016,2026-07-22,Present,IT
+EMP017,2026-02-02,Present,HR
+EMP017,2026-02-03,Absent,HR
+EMP017,2026-02-04,Present,HR
+EMP017,2026-02-05,Present,HR
+EMP017,2026-02-06,Absent,HR
+EMP017,2026-02-09,Absent,HR
+EMP017,2026-02-10,Present,HR
+EMP017,2026-02-11,Present,HR
+EMP017,2026-02-12,Present,HR
+EMP017,2026-02-13,Absent,HR
+EMP017,2026-02-16,Present,HR
+EMP017,2026-02-17,Work From Home,HR
+EMP017,2026-02-18,Present,HR
+EMP017,2026-02-19,Present,HR
+EMP017,2026-02-20,Present,HR
+EMP017,2026-02-23,Present,HR
+EMP017,2026-02-24,Present,HR
+EMP017,2026-02-25,Work From Home,HR
+EMP017,2026-02-26,Present,HR
+EMP017,2026-02-27,Present,HR
+EMP017,2026-03-02,Absent,HR
+EMP017,2026-03-03,Present,HR
+EMP017,2026-03-04,Absent,HR
+EMP017,2026-03-05,Present,HR
+EMP017,2026-03-06,Present,HR
+EMP017,2026-03-09,Present,HR
+EMP017,2026-03-10,Present,HR
+EMP017,2026-03-11,Work From Home,HR
+EMP017,2026-03-12,Present,HR
+EMP017,2026-03-13,Present,HR
+EMP017,2026-03-16,Present,HR
+EMP017,2026-03-17,Present,HR
+EMP017,2026-03-18,Work From Home,HR
+EMP017,2026-03-19,Present,HR
+EMP017,2026-03-20,Present,HR
+EMP017,2026-03-23,Work From Home,HR
+EMP017,2026-03-24,Present,HR
+EMP017,2026-03-25,Work From Home,HR
+EMP017,2026-03-26,Present,HR
+EMP017,2026-03-27,Present,HR
+EMP017,2026-03-30,Present,HR
+EMP017,2026-03-31,Absent,HR
+EMP017,2026-04-01,Work From Home,HR
+EMP017,2026-04-02,Present,HR
+EMP017,2026-04-03,Present,HR
+EMP017,2026-04-06,Present,HR
+EMP017,2026-04-07,Present,HR
+EMP017,2026-04-08,Present,HR
+EMP017,2026-04-09,Work From Home,HR
+EMP017,2026-04-10,Present,HR
+EMP017,2026-04-13,Present,HR
+EMP017,2026-04-14,Present,HR
+EMP017,2026-04-15,Present,HR
+EMP017,2026-04-16,Present,HR
+EMP017,2026-04-17,Present,HR
+EMP017,2026-04-20,Leave,HR
+EMP017,2026-04-21,Present,HR
+EMP017,2026-04-22,Present,HR
+EMP017,2026-04-23,Present,HR
+EMP017,2026-04-24,Leave,HR
+EMP017,2026-04-27,Absent,HR
+EMP017,2026-04-28,Present,HR
+EMP017,2026-04-29,Absent,HR
+EMP017,2026-04-30,Present,HR
+EMP017,2026-05-01,Present,HR
+EMP017,2026-05-04,Present,HR
+EMP017,2026-05-05,Present,HR
+EMP017,2026-05-06,Present,HR
+EMP017,2026-05-07,Work From Home,HR
+EMP017,2026-05-08,Leave,HR
+EMP017,2026-05-11,Present,HR
+EMP017,2026-05-12,Present,HR
+EMP017,2026-05-13,Present,HR
+EMP017,2026-05-14,Present,HR
+EMP017,2026-05-15,Present,HR
+EMP017,2026-05-18,Present,HR
+EMP017,2026-05-19,Present,HR
+EMP017,2026-05-20,Leave,HR
+EMP017,2026-05-21,Present,HR
+EMP017,2026-05-22,Present,HR
+EMP017,2026-05-25,Absent,HR
+EMP017,2026-05-26,Present,HR
+EMP017,2026-05-27,Present,HR
+EMP017,2026-05-28,Present,HR
+EMP017,2026-05-29,Present,HR
+EMP017,2026-06-01,Absent,HR
+EMP017,2026-06-02,Present,HR
+EMP017,2026-06-03,Present,HR
+EMP017,2026-06-04,Leave,HR
+EMP017,2026-06-05,Leave,HR
+EMP017,2026-06-08,Leave,HR
+EMP017,2026-06-09,Present,HR
+EMP017,2026-06-10,Present,HR
+EMP017,2026-06-11,Work From Home,HR
+EMP017,2026-06-12,Absent,HR
+EMP017,2026-06-15,Present,HR
+EMP017,2026-06-16,Present,HR
+EMP017,2026-06-17,Present,HR
+EMP017,2026-06-18,Work From Home,HR
+EMP017,2026-06-19,Present,HR
+EMP017,2026-06-22,Present,HR
+EMP017,2026-06-23,Present,HR
+EMP017,2026-06-24,Present,HR
+EMP017,2026-06-25,Leave,HR
+EMP017,2026-06-26,Present,HR
+EMP017,2026-06-29,Absent,HR
+EMP017,2026-06-30,Work From Home,HR
+EMP017,2026-07-01,Present,HR
+EMP017,2026-07-02,Present,HR
+EMP017,2026-07-03,Present,HR
+EMP017,2026-07-06,Absent,HR
+EMP017,2026-07-07,Present,HR
+EMP017,2026-07-08,Present,HR
+EMP017,2026-07-09,Absent,HR
+EMP017,2026-07-10,Present,HR
+EMP017,2026-07-13,Work From Home,HR
+EMP017,2026-07-14,Present,HR
+EMP017,2026-07-15,Present,HR
+EMP017,2026-07-16,Absent,HR
+EMP017,2026-07-17,Absent,HR
+EMP017,2026-07-20,Present,HR
+EMP017,2026-07-21,Leave,HR
+EMP017,2026-07-22,Work From Home,HR
+EMP018,2026-02-02,Work From Home,Finance
+EMP018,2026-02-03,Present,Finance
+EMP018,2026-02-04,Present,Finance
+EMP018,2026-02-05,Present,Finance
+EMP018,2026-02-06,Work From Home,Finance
+EMP018,2026-02-09,Present,Finance
+EMP018,2026-02-10,Present,Finance
+EMP018,2026-02-11,Present,Finance
+EMP018,2026-02-12,Present,Finance
+EMP018,2026-02-13,Present,Finance
+EMP018,2026-02-16,Leave,Finance
+EMP018,2026-02-17,Absent,Finance
+EMP018,2026-02-18,Present,Finance
+EMP018,2026-02-19,Work From Home,Finance
+EMP018,2026-02-20,Present,Finance
+EMP018,2026-02-23,Work From Home,Finance
+EMP018,2026-02-24,Present,Finance
+EMP018,2026-02-25,Present,Finance
+EMP018,2026-02-26,Present,Finance
+EMP018,2026-02-27,Leave,Finance
+EMP018,2026-03-02,Present,Finance
+EMP018,2026-03-03,Present,Finance
+EMP018,2026-03-04,Present,Finance
+EMP018,2026-03-05,Present,Finance
+EMP018,2026-03-06,Present,Finance
+EMP018,2026-03-09,Absent,Finance
+EMP018,2026-03-10,Work From Home,Finance
+EMP018,2026-03-11,Present,Finance
+EMP018,2026-03-12,Absent,Finance
+EMP018,2026-03-13,Present,Finance
+EMP018,2026-03-16,Leave,Finance
+EMP018,2026-03-17,Leave,Finance
+EMP018,2026-03-18,Present,Finance
+EMP018,2026-03-19,Absent,Finance
+EMP018,2026-03-20,Present,Finance
+EMP018,2026-03-23,Present,Finance
+EMP018,2026-03-24,Leave,Finance
+EMP018,2026-03-25,Present,Finance
+EMP018,2026-03-26,Present,Finance
+EMP018,2026-03-27,Present,Finance
+EMP018,2026-03-30,Leave,Finance
+EMP018,2026-03-31,Present,Finance
+EMP018,2026-04-01,Present,Finance
+EMP018,2026-04-02,Absent,Finance
+EMP018,2026-04-03,Leave,Finance
+EMP018,2026-04-06,Present,Finance
+EMP018,2026-04-07,Present,Finance
+EMP018,2026-04-08,Present,Finance
+EMP018,2026-04-09,Present,Finance
+EMP018,2026-04-10,Present,Finance
+EMP018,2026-04-13,Absent,Finance
+EMP018,2026-04-14,Present,Finance
+EMP018,2026-04-15,Present,Finance
+EMP018,2026-04-16,Present,Finance
+EMP018,2026-04-17,Leave,Finance
+EMP018,2026-04-20,Present,Finance
+EMP018,2026-04-21,Work From Home,Finance
+EMP018,2026-04-22,Present,Finance
+EMP018,2026-04-23,Present,Finance
+EMP018,2026-04-24,Present,Finance
+EMP018,2026-04-27,Present,Finance
+EMP018,2026-04-28,Present,Finance
+EMP018,2026-04-29,Present,Finance
+EMP018,2026-04-30,Present,Finance
+EMP018,2026-05-01,Leave,Finance
+EMP018,2026-05-04,Present,Finance
+EMP018,2026-05-05,Leave,Finance
+EMP018,2026-05-06,Present,Finance
+EMP018,2026-05-07,Present,Finance
+EMP018,2026-05-08,Present,Finance
+EMP018,2026-05-11,Present,Finance
+EMP018,2026-05-12,Present,Finance
+EMP018,2026-05-13,Present,Finance
+EMP018,2026-05-14,Present,Finance
+EMP018,2026-05-15,Present,Finance
+EMP018,2026-05-18,Present,Finance
+EMP018,2026-05-19,Work From Home,Finance
+EMP018,2026-05-20,Leave,Finance
+EMP018,2026-05-21,Absent,Finance
+EMP018,2026-05-22,Absent,Finance
+EMP018,2026-05-25,Present,Finance
+EMP018,2026-05-26,Present,Finance
+EMP018,2026-05-27,Work From Home,Finance
+EMP018,2026-05-28,Present,Finance
+EMP018,2026-05-29,Present,Finance
+EMP018,2026-06-01,Present,Finance
+EMP018,2026-06-02,Present,Finance
+EMP018,2026-06-03,Present,Finance
+EMP018,2026-06-04,Leave,Finance
+EMP018,2026-06-05,Present,Finance
+EMP018,2026-06-08,Present,Finance
+EMP018,2026-06-09,Work From Home,Finance
+EMP018,2026-06-10,Present,Finance
+EMP018,2026-06-11,Present,Finance
+EMP018,2026-06-12,Present,Finance
+EMP018,2026-06-15,Absent,Finance
+EMP018,2026-06-16,Work From Home,Finance
+EMP018,2026-06-17,Present,Finance
+EMP018,2026-06-18,Leave,Finance
+EMP018,2026-06-19,Present,Finance
+EMP018,2026-06-22,Work From Home,Finance
+EMP018,2026-06-23,Absent,Finance
+EMP018,2026-06-24,Absent,Finance
+EMP018,2026-06-25,Present,Finance
+EMP018,2026-06-26,Work From Home,Finance
+EMP018,2026-06-29,Absent,Finance
+EMP018,2026-06-30,Present,Finance
+EMP018,2026-07-01,Leave,Finance
+EMP018,2026-07-02,Present,Finance
+EMP018,2026-07-03,Leave,Finance
+EMP018,2026-07-06,Present,Finance
+EMP018,2026-07-07,Absent,Finance
+EMP018,2026-07-08,Present,Finance
+EMP018,2026-07-09,Present,Finance
+EMP018,2026-07-10,Present,Finance
+EMP018,2026-07-13,Present,Finance
+EMP018,2026-07-14,Present,Finance
+EMP018,2026-07-15,Present,Finance
+EMP018,2026-07-16,Present,Finance
+EMP018,2026-07-17,Present,Finance
+EMP018,2026-07-20,Present,Finance
+EMP018,2026-07-21,Absent,Finance
+EMP018,2026-07-22,Present,Finance
+EMP019,2026-02-02,Leave,Sales
+EMP019,2026-02-03,Present,Sales
+EMP019,2026-02-04,Present,Sales
+EMP019,2026-02-05,Leave,Sales
+EMP019,2026-02-06,Present,Sales
+EMP019,2026-02-09,Present,Sales
+EMP019,2026-02-10,Present,Sales
+EMP019,2026-02-11,Absent,Sales
+EMP019,2026-02-12,Present,Sales
+EMP019,2026-02-13,Present,Sales
+EMP019,2026-02-16,Work From Home,Sales
+EMP019,2026-02-17,Leave,Sales
+EMP019,2026-02-18,Present,Sales
+EMP019,2026-02-19,Present,Sales
+EMP019,2026-02-20,Absent,Sales
+EMP019,2026-02-23,Present,Sales
+EMP019,2026-02-24,Present,Sales
+EMP019,2026-02-25,Present,Sales
+EMP019,2026-02-26,Leave,Sales
+EMP019,2026-02-27,Present,Sales
+EMP019,2026-03-02,Absent,Sales
+EMP019,2026-03-03,Leave,Sales
+EMP019,2026-03-04,Present,Sales
+EMP019,2026-03-05,Present,Sales
+EMP019,2026-03-06,Present,Sales
+EMP019,2026-03-09,Present,Sales
+EMP019,2026-03-10,Present,Sales
+EMP019,2026-03-11,Absent,Sales
+EMP019,2026-03-12,Present,Sales
+EMP019,2026-03-13,Leave,Sales
+EMP019,2026-03-16,Present,Sales
+EMP019,2026-03-17,Present,Sales
+EMP019,2026-03-18,Present,Sales
+EMP019,2026-03-19,Present,Sales
+EMP019,2026-03-20,Present,Sales
+EMP019,2026-03-23,Present,Sales
+EMP019,2026-03-24,Present,Sales
+EMP019,2026-03-25,Present,Sales
+EMP019,2026-03-26,Present,Sales
+EMP019,2026-03-27,Present,Sales
+EMP019,2026-03-30,Present,Sales
+EMP019,2026-03-31,Work From Home,Sales
+EMP019,2026-04-01,Present,Sales
+EMP019,2026-04-02,Present,Sales
+EMP019,2026-04-03,Present,Sales
+EMP019,2026-04-06,Present,Sales
+EMP019,2026-04-07,Present,Sales
+EMP019,2026-04-08,Present,Sales
+EMP019,2026-04-09,Present,Sales
+EMP019,2026-04-10,Present,Sales
+EMP019,2026-04-13,Present,Sales
+EMP019,2026-04-14,Present,Sales
+EMP019,2026-04-15,Present,Sales
+EMP019,2026-04-16,Work From Home,Sales
+EMP019,2026-04-17,Present,Sales
+EMP019,2026-04-20,Present,Sales
+EMP019,2026-04-21,Present,Sales
+EMP019,2026-04-22,Present,Sales
+EMP019,2026-04-23,Present,Sales
+EMP019,2026-04-24,Present,Sales
+EMP019,2026-04-27,Present,Sales
+EMP019,2026-04-28,Present,Sales
+EMP019,2026-04-29,Present,Sales
+EMP019,2026-04-30,Present,Sales
+EMP019,2026-05-01,Present,Sales
+EMP019,2026-05-04,Present,Sales
+EMP019,2026-05-05,Present,Sales
+EMP019,2026-05-06,Absent,Sales
+EMP019,2026-05-07,Present,Sales
+EMP019,2026-05-08,Present,Sales
+EMP019,2026-05-11,Present,Sales
+EMP019,2026-05-12,Work From Home,Sales
+EMP019,2026-05-13,Present,Sales
+EMP019,2026-05-14,Present,Sales
+EMP019,2026-05-15,Present,Sales
+EMP019,2026-05-18,Present,Sales
+EMP019,2026-05-19,Present,Sales
+EMP019,2026-05-20,Present,Sales
+EMP019,2026-05-21,Leave,Sales
+EMP019,2026-05-22,Present,Sales
+EMP019,2026-05-25,Present,Sales
+EMP019,2026-05-26,Work From Home,Sales
+EMP019,2026-05-27,Present,Sales
+EMP019,2026-05-28,Present,Sales
+EMP019,2026-05-29,Present,Sales
+EMP019,2026-06-01,Present,Sales
+EMP019,2026-06-02,Present,Sales
+EMP019,2026-06-03,Leave,Sales
+EMP019,2026-06-04,Present,Sales
+EMP019,2026-06-05,Present,Sales
+EMP019,2026-06-08,Present,Sales
+EMP019,2026-06-09,Absent,Sales
+EMP019,2026-06-10,Work From Home,Sales
+EMP019,2026-06-11,Absent,Sales
+EMP019,2026-06-12,Present,Sales
+EMP019,2026-06-15,Present,Sales
+EMP019,2026-06-16,Present,Sales
+EMP019,2026-06-17,Present,Sales
+EMP019,2026-06-18,Present,Sales
+EMP019,2026-06-19,Present,Sales
+EMP019,2026-06-22,Present,Sales
+EMP019,2026-06-23,Present,Sales
+EMP019,2026-06-24,Present,Sales
+EMP019,2026-06-25,Present,Sales
+EMP019,2026-06-26,Present,Sales
+EMP019,2026-06-29,Present,Sales
+EMP019,2026-06-30,Present,Sales
+EMP019,2026-07-01,Present,Sales
+EMP019,2026-07-02,Present,Sales
+EMP019,2026-07-03,Present,Sales
+EMP019,2026-07-06,Present,Sales
+EMP019,2026-07-07,Work From Home,Sales
+EMP019,2026-07-08,Present,Sales
+EMP019,2026-07-09,Present,Sales
+EMP019,2026-07-10,Present,Sales
+EMP019,2026-07-13,Present,Sales
+EMP019,2026-07-14,Present,Sales
+EMP019,2026-07-15,Present,Sales
+EMP019,2026-07-16,Leave,Sales
+EMP019,2026-07-17,Present,Sales
+EMP019,2026-07-20,Leave,Sales
+EMP019,2026-07-21,Present,Sales
+EMP019,2026-07-22,Present,Sales
+EMP020,2026-02-02,Present,Marketing
+EMP020,2026-02-03,Present,Marketing
+EMP020,2026-02-04,Present,Marketing
+EMP020,2026-02-05,Present,Marketing
+EMP020,2026-02-06,Present,Marketing
+EMP020,2026-02-09,Present,Marketing
+EMP020,2026-02-10,Present,Marketing
+EMP020,2026-02-11,Present,Marketing
+EMP020,2026-02-12,Present,Marketing
+EMP020,2026-02-13,Present,Marketing
+EMP020,2026-02-16,Present,Marketing
+EMP020,2026-02-17,Present,Marketing
+EMP020,2026-02-18,Present,Marketing
+EMP020,2026-02-19,Present,Marketing
+EMP020,2026-02-20,Leave,Marketing
+EMP020,2026-02-23,Present,Marketing
+EMP020,2026-02-24,Present,Marketing
+EMP020,2026-02-25,Present,Marketing
+EMP020,2026-02-26,Present,Marketing
+EMP020,2026-02-27,Present,Marketing
+EMP020,2026-03-02,Absent,Marketing
+EMP020,2026-03-03,Present,Marketing
+EMP020,2026-03-04,Absent,Marketing
+EMP020,2026-03-05,Absent,Marketing
+EMP020,2026-03-06,Leave,Marketing
+EMP020,2026-03-09,Leave,Marketing
+EMP020,2026-03-10,Present,Marketing
+EMP020,2026-03-11,Present,Marketing
+EMP020,2026-03-12,Present,Marketing
+EMP020,2026-03-13,Present,Marketing
+EMP020,2026-03-16,Present,Marketing
+EMP020,2026-03-17,Present,Marketing
+EMP020,2026-03-18,Present,Marketing
+EMP020,2026-03-19,Present,Marketing
+EMP020,2026-03-20,Present,Marketing
+EMP020,2026-03-23,Present,Marketing
+EMP020,2026-03-24,Present,Marketing
+EMP020,2026-03-25,Leave,Marketing
+EMP020,2026-03-26,Present,Marketing
+EMP020,2026-03-27,Present,Marketing
+EMP020,2026-03-30,Present,Marketing
+EMP020,2026-03-31,Present,Marketing
+EMP020,2026-04-01,Present,Marketing
+EMP020,2026-04-02,Present,Marketing
+EMP020,2026-04-03,Present,Marketing
+EMP020,2026-04-06,Present,Marketing
+EMP020,2026-04-07,Present,Marketing
+EMP020,2026-04-08,Present,Marketing
+EMP020,2026-04-09,Present,Marketing
+EMP020,2026-04-10,Present,Marketing
+EMP020,2026-04-13,Present,Marketing
+EMP020,2026-04-14,Work From Home,Marketing
+EMP020,2026-04-15,Present,Marketing
+EMP020,2026-04-16,Present,Marketing
+EMP020,2026-04-17,Present,Marketing
+EMP020,2026-04-20,Present,Marketing
+EMP020,2026-04-21,Present,Marketing
+EMP020,2026-04-22,Present,Marketing
+EMP020,2026-04-23,Work From Home,Marketing
+EMP020,2026-04-24,Present,Marketing
+EMP020,2026-04-27,Present,Marketing
+EMP020,2026-04-28,Present,Marketing
+EMP020,2026-04-29,Present,Marketing
+EMP020,2026-04-30,Present,Marketing
+EMP020,2026-05-01,Present,Marketing
+EMP020,2026-05-04,Present,Marketing
+EMP020,2026-05-05,Present,Marketing
+EMP020,2026-05-06,Present,Marketing
+EMP020,2026-05-07,Leave,Marketing
+EMP020,2026-05-08,Present,Marketing
+EMP020,2026-05-11,Work From Home,Marketing
+EMP020,2026-05-12,Present,Marketing
+EMP020,2026-05-13,Leave,Marketing
+EMP020,2026-05-14,Present,Marketing
+EMP020,2026-05-15,Absent,Marketing
+EMP020,2026-05-18,Work From Home,Marketing
+EMP020,2026-05-19,Present,Marketing
+EMP020,2026-05-20,Work From Home,Marketing
+EMP020,2026-05-21,Present,Marketing
+EMP020,2026-05-22,Present,Marketing
+EMP020,2026-05-25,Present,Marketing
+EMP020,2026-05-26,Present,Marketing
+EMP020,2026-05-27,Present,Marketing
+EMP020,2026-05-28,Present,Marketing
+EMP020,2026-05-29,Present,Marketing
+EMP020,2026-06-01,Absent,Marketing
+EMP020,2026-06-02,Absent,Marketing
+EMP020,2026-06-03,Present,Marketing
+EMP020,2026-06-04,Present,Marketing
+EMP020,2026-06-05,Present,Marketing
+EMP020,2026-06-08,Present,Marketing
+EMP020,2026-06-09,Present,Marketing
+EMP020,2026-06-10,Present,Marketing
+EMP020,2026-06-11,Present,Marketing
+EMP020,2026-06-12,Work From Home,Marketing
+EMP020,2026-06-15,Present,Marketing
+EMP020,2026-06-16,Present,Marketing
+EMP020,2026-06-17,Present,Marketing
+EMP020,2026-06-18,Present,Marketing
+EMP020,2026-06-19,Present,Marketing
+EMP020,2026-06-22,Present,Marketing
+EMP020,2026-06-23,Present,Marketing
+EMP020,2026-06-24,Present,Marketing
+EMP020,2026-06-25,Work From Home,Marketing
+EMP020,2026-06-26,Leave,Marketing
+EMP020,2026-06-29,Present,Marketing
+EMP020,2026-06-30,Present,Marketing
+EMP020,2026-07-01,Present,Marketing
+EMP020,2026-07-02,Present,Marketing
+EMP020,2026-07-03,Present,Marketing
+EMP020,2026-07-06,Present,Marketing
+EMP020,2026-07-07,Present,Marketing
+EMP020,2026-07-08,Present,Marketing
+EMP020,2026-07-09,Present,Marketing
+EMP020,2026-07-10,Work From Home,Marketing
+EMP020,2026-07-13,Leave,Marketing
+EMP020,2026-07-14,Present,Marketing
+EMP020,2026-07-15,Present,Marketing
+EMP020,2026-07-16,Leave,Marketing
+EMP020,2026-07-17,Present,Marketing
+EMP020,2026-07-20,Absent,Marketing
+EMP020,2026-07-21,Present,Marketing
+EMP020,2026-07-22,Absent,Marketing
+EMP021,2026-02-02,Leave,IT
+EMP021,2026-02-03,Work From Home,IT
+EMP021,2026-02-04,Present,IT
+EMP021,2026-02-05,Present,IT
+EMP021,2026-02-06,Work From Home,IT
+EMP021,2026-02-09,Present,IT
+EMP021,2026-02-10,Leave,IT
+EMP021,2026-02-11,Present,IT
+EMP021,2026-02-12,Present,IT
+EMP021,2026-02-13,Present,IT
+EMP021,2026-02-16,Present,IT
+EMP021,2026-02-17,Absent,IT
+EMP021,2026-02-18,Present,IT
+EMP021,2026-02-19,Present,IT
+EMP021,2026-02-20,Present,IT
+EMP021,2026-02-23,Present,IT
+EMP021,2026-02-24,Leave,IT
+EMP021,2026-02-25,Work From Home,IT
+EMP021,2026-02-26,Present,IT
+EMP021,2026-02-27,Leave,IT
+EMP021,2026-03-02,Absent,IT
+EMP021,2026-03-03,Present,IT
+EMP021,2026-03-04,Work From Home,IT
+EMP021,2026-03-05,Present,IT
+EMP021,2026-03-06,Present,IT
+EMP021,2026-03-09,Leave,IT
+EMP021,2026-03-10,Present,IT
+EMP021,2026-03-11,Leave,IT
+EMP021,2026-03-12,Work From Home,IT
+EMP021,2026-03-13,Present,IT
+EMP021,2026-03-16,Leave,IT
+EMP021,2026-03-17,Present,IT
+EMP021,2026-03-18,Present,IT
+EMP021,2026-03-19,Present,IT
+EMP021,2026-03-20,Work From Home,IT
+EMP021,2026-03-23,Present,IT
+EMP021,2026-03-24,Present,IT
+EMP021,2026-03-25,Present,IT
+EMP021,2026-03-26,Absent,IT
+EMP021,2026-03-27,Present,IT
+EMP021,2026-03-30,Present,IT
+EMP021,2026-03-31,Present,IT
+EMP021,2026-04-01,Present,IT
+EMP021,2026-04-02,Absent,IT
+EMP021,2026-04-03,Present,IT
+EMP021,2026-04-06,Present,IT
+EMP021,2026-04-07,Work From Home,IT
+EMP021,2026-04-08,Present,IT
+EMP021,2026-04-09,Work From Home,IT
+EMP021,2026-04-10,Present,IT
+EMP021,2026-04-13,Leave,IT
+EMP021,2026-04-14,Present,IT
+EMP021,2026-04-15,Present,IT
+EMP021,2026-04-16,Absent,IT
+EMP021,2026-04-17,Leave,IT
+EMP021,2026-04-20,Absent,IT
+EMP021,2026-04-21,Present,IT
+EMP021,2026-04-22,Absent,IT
+EMP021,2026-04-23,Absent,IT
+EMP021,2026-04-24,Present,IT
+EMP021,2026-04-27,Absent,IT
+EMP021,2026-04-28,Leave,IT
+EMP021,2026-04-29,Present,IT
+EMP021,2026-04-30,Present,IT
+EMP021,2026-05-01,Present,IT
+EMP021,2026-05-04,Present,IT
+EMP021,2026-05-05,Present,IT
+EMP021,2026-05-06,Present,IT
+EMP021,2026-05-07,Present,IT
+EMP021,2026-05-08,Present,IT
+EMP021,2026-05-11,Present,IT
+EMP021,2026-05-12,Absent,IT
+EMP021,2026-05-13,Work From Home,IT
+EMP021,2026-05-14,Present,IT
+EMP021,2026-05-15,Work From Home,IT
+EMP021,2026-05-18,Present,IT
+EMP021,2026-05-19,Present,IT
+EMP021,2026-05-20,Present,IT
+EMP021,2026-05-21,Present,IT
+EMP021,2026-05-22,Absent,IT
+EMP021,2026-05-25,Absent,IT
+EMP021,2026-05-26,Present,IT
+EMP021,2026-05-27,Present,IT
+EMP021,2026-05-28,Present,IT
+EMP021,2026-05-29,Present,IT
+EMP021,2026-06-01,Present,IT
+EMP021,2026-06-02,Present,IT
+EMP021,2026-06-03,Absent,IT
+EMP021,2026-06-04,Work From Home,IT
+EMP021,2026-06-05,Present,IT
+EMP021,2026-06-08,Work From Home,IT
+EMP021,2026-06-09,Present,IT
+EMP021,2026-06-10,Present,IT
+EMP021,2026-06-11,Present,IT
+EMP021,2026-06-12,Present,IT
+EMP021,2026-06-15,Work From Home,IT
+EMP021,2026-06-16,Present,IT
+EMP021,2026-06-17,Present,IT
+EMP021,2026-06-18,Present,IT
+EMP021,2026-06-19,Present,IT
+EMP021,2026-06-22,Leave,IT
+EMP021,2026-06-23,Present,IT
+EMP021,2026-06-24,Present,IT
+EMP021,2026-06-25,Present,IT
+EMP021,2026-06-26,Present,IT
+EMP021,2026-06-29,Present,IT
+EMP021,2026-06-30,Present,IT
+EMP021,2026-07-01,Present,IT
+EMP021,2026-07-02,Absent,IT
+EMP021,2026-07-03,Leave,IT
+EMP021,2026-07-06,Absent,IT
+EMP021,2026-07-07,Present,IT
+EMP021,2026-07-08,Present,IT
+EMP021,2026-07-09,Present,IT
+EMP021,2026-07-10,Absent,IT
+EMP021,2026-07-13,Present,IT
+EMP021,2026-07-14,Present,IT
+EMP021,2026-07-15,Present,IT
+EMP021,2026-07-16,Present,IT
+EMP021,2026-07-17,Present,IT
+EMP021,2026-07-20,Present,IT
+EMP021,2026-07-21,Absent,IT
+EMP021,2026-07-22,Present,IT
+EMP022,2026-02-02,Present,HR
+EMP022,2026-02-03,Present,HR
+EMP022,2026-02-04,Present,HR
+EMP022,2026-02-05,Absent,HR
+EMP022,2026-02-06,Present,HR
+EMP022,2026-02-09,Leave,HR
+EMP022,2026-02-10,Present,HR
+EMP022,2026-02-11,Present,HR
+EMP022,2026-02-12,Absent,HR
+EMP022,2026-02-13,Present,HR
+EMP022,2026-02-16,Present,HR
+EMP022,2026-02-17,Present,HR
+EMP022,2026-02-18,Present,HR
+EMP022,2026-02-19,Leave,HR
+EMP022,2026-02-20,Present,HR
+EMP022,2026-02-23,Absent,HR
+EMP022,2026-02-24,Work From Home,HR
+EMP022,2026-02-25,Present,HR
+EMP022,2026-02-26,Work From Home,HR
+EMP022,2026-02-27,Present,HR
+EMP022,2026-03-02,Work From Home,HR
+EMP022,2026-03-03,Present,HR
+EMP022,2026-03-04,Absent,HR
+EMP022,2026-03-05,Present,HR
+EMP022,2026-03-06,Present,HR
+EMP022,2026-03-09,Present,HR
+EMP022,2026-03-10,Absent,HR
+EMP022,2026-03-11,Present,HR
+EMP022,2026-03-12,Present,HR
+EMP022,2026-03-13,Absent,HR
+EMP022,2026-03-16,Present,HR
+EMP022,2026-03-17,Work From Home,HR
+EMP022,2026-03-18,Absent,HR
+EMP022,2026-03-19,Work From Home,HR
+EMP022,2026-03-20,Absent,HR
+EMP022,2026-03-23,Present,HR
+EMP022,2026-03-24,Present,HR
+EMP022,2026-03-25,Absent,HR
+EMP022,2026-03-26,Present,HR
+EMP022,2026-03-27,Present,HR
+EMP022,2026-03-30,Present,HR
+EMP022,2026-03-31,Work From Home,HR
+EMP022,2026-04-01,Present,HR
+EMP022,2026-04-02,Present,HR
+EMP022,2026-04-03,Present,HR
+EMP022,2026-04-06,Present,HR
+EMP022,2026-04-07,Present,HR
+EMP022,2026-04-08,Present,HR
+EMP022,2026-04-09,Present,HR
+EMP022,2026-04-10,Absent,HR
+EMP022,2026-04-13,Present,HR
+EMP022,2026-04-14,Leave,HR
+EMP022,2026-04-15,Leave,HR
+EMP022,2026-04-16,Present,HR
+EMP022,2026-04-17,Present,HR
+EMP022,2026-04-20,Present,HR
+EMP022,2026-04-21,Work From Home,HR
+EMP022,2026-04-22,Present,HR
+EMP022,2026-04-23,Absent,HR
+EMP022,2026-04-24,Present,HR
+EMP022,2026-04-27,Present,HR
+EMP022,2026-04-28,Present,HR
+EMP022,2026-04-29,Present,HR
+EMP022,2026-04-30,Absent,HR
+EMP022,2026-05-01,Present,HR
+EMP022,2026-05-04,Present,HR
+EMP022,2026-05-05,Present,HR
+EMP022,2026-05-06,Absent,HR
+EMP022,2026-05-07,Present,HR
+EMP022,2026-05-08,Work From Home,HR
+EMP022,2026-05-11,Present,HR
+EMP022,2026-05-12,Present,HR
+EMP022,2026-05-13,Present,HR
+EMP022,2026-05-14,Present,HR
+EMP022,2026-05-15,Present,HR
+EMP022,2026-05-18,Present,HR
+EMP022,2026-05-19,Leave,HR
+EMP022,2026-05-20,Present,HR
+EMP022,2026-05-21,Present,HR
+EMP022,2026-05-22,Present,HR
+EMP022,2026-05-25,Present,HR
+EMP022,2026-05-26,Present,HR
+EMP022,2026-05-27,Present,HR
+EMP022,2026-05-28,Present,HR
+EMP022,2026-05-29,Present,HR
+EMP022,2026-06-01,Present,HR
+EMP022,2026-06-02,Present,HR
+EMP022,2026-06-03,Present,HR
+EMP022,2026-06-04,Present,HR
+EMP022,2026-06-05,Work From Home,HR
+EMP022,2026-06-08,Present,HR
+EMP022,2026-06-09,Absent,HR
+EMP022,2026-06-10,Present,HR
+EMP022,2026-06-11,Absent,HR
+EMP022,2026-06-12,Absent,HR
+EMP022,2026-06-15,Present,HR
+EMP022,2026-06-16,Work From Home,HR
+EMP022,2026-06-17,Present,HR
+EMP022,2026-06-18,Present,HR
+EMP022,2026-06-19,Absent,HR
+EMP022,2026-06-22,Leave,HR
+EMP022,2026-06-23,Present,HR
+EMP022,2026-06-24,Present,HR
+EMP022,2026-06-25,Present,HR
+EMP022,2026-06-26,Present,HR
+EMP022,2026-06-29,Absent,HR
+EMP022,2026-06-30,Present,HR
+EMP022,2026-07-01,Present,HR
+EMP022,2026-07-02,Present,HR
+EMP022,2026-07-03,Present,HR
+EMP022,2026-07-06,Present,HR
+EMP022,2026-07-07,Present,HR
+EMP022,2026-07-08,Work From Home,HR
+EMP022,2026-07-09,Leave,HR
+EMP022,2026-07-10,Present,HR
+EMP022,2026-07-13,Work From Home,HR
+EMP022,2026-07-14,Absent,HR
+EMP022,2026-07-15,Absent,HR
+EMP022,2026-07-16,Present,HR
+EMP022,2026-07-17,Present,HR
+EMP022,2026-07-20,Present,HR
+EMP022,2026-07-21,Present,HR
+EMP022,2026-07-22,Present,HR
+EMP023,2026-02-02,Present,Finance
+EMP023,2026-02-03,Absent,Finance
+EMP023,2026-02-04,Present,Finance
+EMP023,2026-02-05,Present,Finance
+EMP023,2026-02-06,Work From Home,Finance
+EMP023,2026-02-09,Work From Home,Finance
+EMP023,2026-02-10,Absent,Finance
+EMP023,2026-02-11,Work From Home,Finance
+EMP023,2026-02-12,Present,Finance
+EMP023,2026-02-13,Work From Home,Finance
+EMP023,2026-02-16,Present,Finance
+EMP023,2026-02-17,Present,Finance
+EMP023,2026-02-18,Present,Finance
+EMP023,2026-02-19,Present,Finance
+EMP023,2026-02-20,Present,Finance
+EMP023,2026-02-23,Present,Finance
+EMP023,2026-02-24,Absent,Finance
+EMP023,2026-02-25,Present,Finance
+EMP023,2026-02-26,Present,Finance
+EMP023,2026-02-27,Leave,Finance
+EMP023,2026-03-02,Present,Finance
+EMP023,2026-03-03,Present,Finance
+EMP023,2026-03-04,Present,Finance
+EMP023,2026-03-05,Present,Finance
+EMP023,2026-03-06,Present,Finance
+EMP023,2026-03-09,Work From Home,Finance
+EMP023,2026-03-10,Present,Finance
+EMP023,2026-03-11,Present,Finance
+EMP023,2026-03-12,Work From Home,Finance
+EMP023,2026-03-13,Absent,Finance
+EMP023,2026-03-16,Present,Finance
+EMP023,2026-03-17,Present,Finance
+EMP023,2026-03-18,Present,Finance
+EMP023,2026-03-19,Present,Finance
+EMP023,2026-03-20,Present,Finance
+EMP023,2026-03-23,Present,Finance
+EMP023,2026-03-24,Work From Home,Finance
+EMP023,2026-03-25,Present,Finance
+EMP023,2026-03-26,Present,Finance
+EMP023,2026-03-27,Present,Finance
+EMP023,2026-03-30,Present,Finance
+EMP023,2026-03-31,Present,Finance
+EMP023,2026-04-01,Present,Finance
+EMP023,2026-04-02,Absent,Finance
+EMP023,2026-04-03,Present,Finance
+EMP023,2026-04-06,Present,Finance
+EMP023,2026-04-07,Present,Finance
+EMP023,2026-04-08,Present,Finance
+EMP023,2026-04-09,Present,Finance
+EMP023,2026-04-10,Present,Finance
+EMP023,2026-04-13,Present,Finance
+EMP023,2026-04-14,Present,Finance
+EMP023,2026-04-15,Leave,Finance
+EMP023,2026-04-16,Work From Home,Finance
+EMP023,2026-04-17,Absent,Finance
+EMP023,2026-04-20,Leave,Finance
+EMP023,2026-04-21,Present,Finance
+EMP023,2026-04-22,Work From Home,Finance
+EMP023,2026-04-23,Present,Finance
+EMP023,2026-04-24,Work From Home,Finance
+EMP023,2026-04-27,Work From Home,Finance
+EMP023,2026-04-28,Absent,Finance
+EMP023,2026-04-29,Work From Home,Finance
+EMP023,2026-04-30,Present,Finance
+EMP023,2026-05-01,Present,Finance
+EMP023,2026-05-04,Present,Finance
+EMP023,2026-05-05,Present,Finance
+EMP023,2026-05-06,Present,Finance
+EMP023,2026-05-07,Present,Finance
+EMP023,2026-05-08,Work From Home,Finance
+EMP023,2026-05-11,Present,Finance
+EMP023,2026-05-12,Absent,Finance
+EMP023,2026-05-13,Work From Home,Finance
+EMP023,2026-05-14,Work From Home,Finance
+EMP023,2026-05-15,Work From Home,Finance
+EMP023,2026-05-18,Present,Finance
+EMP023,2026-05-19,Work From Home,Finance
+EMP023,2026-05-20,Absent,Finance
+EMP023,2026-05-21,Present,Finance
+EMP023,2026-05-22,Present,Finance
+EMP023,2026-05-25,Absent,Finance
+EMP023,2026-05-26,Present,Finance
+EMP023,2026-05-27,Present,Finance
+EMP023,2026-05-28,Present,Finance
+EMP023,2026-05-29,Present,Finance
+EMP023,2026-06-01,Present,Finance
+EMP023,2026-06-02,Absent,Finance
+EMP023,2026-06-03,Present,Finance
+EMP023,2026-06-04,Present,Finance
+EMP023,2026-06-05,Present,Finance
+EMP023,2026-06-08,Present,Finance
+EMP023,2026-06-09,Work From Home,Finance
+EMP023,2026-06-10,Present,Finance
+EMP023,2026-06-11,Present,Finance
+EMP023,2026-06-12,Present,Finance
+EMP023,2026-06-15,Present,Finance
+EMP023,2026-06-16,Leave,Finance
+EMP023,2026-06-17,Absent,Finance
+EMP023,2026-06-18,Present,Finance
+EMP023,2026-06-19,Present,Finance
+EMP023,2026-06-22,Present,Finance
+EMP023,2026-06-23,Present,Finance
+EMP023,2026-06-24,Present,Finance
+EMP023,2026-06-25,Present,Finance
+EMP023,2026-06-26,Present,Finance
+EMP023,2026-06-29,Present,Finance
+EMP023,2026-06-30,Work From Home,Finance
+EMP023,2026-07-01,Work From Home,Finance
+EMP023,2026-07-02,Present,Finance
+EMP023,2026-07-03,Absent,Finance
+EMP023,2026-07-06,Present,Finance
+EMP023,2026-07-07,Present,Finance
+EMP023,2026-07-08,Absent,Finance
+EMP023,2026-07-09,Work From Home,Finance
+EMP023,2026-07-10,Work From Home,Finance
+EMP023,2026-07-13,Present,Finance
+EMP023,2026-07-14,Present,Finance
+EMP023,2026-07-15,Absent,Finance
+EMP023,2026-07-16,Present,Finance
+EMP023,2026-07-17,Present,Finance
+EMP023,2026-07-20,Present,Finance
+EMP023,2026-07-21,Present,Finance
+EMP023,2026-07-22,Present,Finance
+EMP024,2026-02-02,Work From Home,Sales
+EMP024,2026-02-03,Present,Sales
+EMP024,2026-02-04,Present,Sales
+EMP024,2026-02-05,Present,Sales
+EMP024,2026-02-06,Present,Sales
+EMP024,2026-02-09,Present,Sales
+EMP024,2026-02-10,Present,Sales
+EMP024,2026-02-11,Leave,Sales
+EMP024,2026-02-12,Present,Sales
+EMP024,2026-02-13,Work From Home,Sales
+EMP024,2026-02-16,Present,Sales
+EMP024,2026-02-17,Present,Sales
+EMP024,2026-02-18,Present,Sales
+EMP024,2026-02-19,Present,Sales
+EMP024,2026-02-20,Absent,Sales
+EMP024,2026-02-23,Present,Sales
+EMP024,2026-02-24,Present,Sales
+EMP024,2026-02-25,Work From Home,Sales
+EMP024,2026-02-26,Work From Home,Sales
+EMP024,2026-02-27,Work From Home,Sales
+EMP024,2026-03-02,Present,Sales
+EMP024,2026-03-03,Absent,Sales
+EMP024,2026-03-04,Present,Sales
+EMP024,2026-03-05,Present,Sales
+EMP024,2026-03-06,Present,Sales
+EMP024,2026-03-09,Present,Sales
+EMP024,2026-03-10,Present,Sales
+EMP024,2026-03-11,Present,Sales
+EMP024,2026-03-12,Leave,Sales
+EMP024,2026-03-13,Present,Sales
+EMP024,2026-03-16,Present,Sales
+EMP024,2026-03-17,Present,Sales
+EMP024,2026-03-18,Work From Home,Sales
+EMP024,2026-03-19,Present,Sales
+EMP024,2026-03-20,Present,Sales
+EMP024,2026-03-23,Leave,Sales
+EMP024,2026-03-24,Leave,Sales
+EMP024,2026-03-25,Present,Sales
+EMP024,2026-03-26,Absent,Sales
+EMP024,2026-03-27,Absent,Sales
+EMP024,2026-03-30,Present,Sales
+EMP024,2026-03-31,Present,Sales
+EMP024,2026-04-01,Leave,Sales
+EMP024,2026-04-02,Present,Sales
+EMP024,2026-04-03,Present,Sales
+EMP024,2026-04-06,Present,Sales
+EMP024,2026-04-07,Present,Sales
+EMP024,2026-04-08,Present,Sales
+EMP024,2026-04-09,Absent,Sales
+EMP024,2026-04-10,Present,Sales
+EMP024,2026-04-13,Present,Sales
+EMP024,2026-04-14,Present,Sales
+EMP024,2026-04-15,Present,Sales
+EMP024,2026-04-16,Work From Home,Sales
+EMP024,2026-04-17,Present,Sales
+EMP024,2026-04-20,Present,Sales
+EMP024,2026-04-21,Present,Sales
+EMP024,2026-04-22,Present,Sales
+EMP024,2026-04-23,Present,Sales
+EMP024,2026-04-24,Absent,Sales
+EMP024,2026-04-27,Work From Home,Sales
+EMP024,2026-04-28,Present,Sales
+EMP024,2026-04-29,Present,Sales
+EMP024,2026-04-30,Absent,Sales
+EMP024,2026-05-01,Leave,Sales
+EMP024,2026-05-04,Present,Sales
+EMP024,2026-05-05,Present,Sales
+EMP024,2026-05-06,Present,Sales
+EMP024,2026-05-07,Absent,Sales
+EMP024,2026-05-08,Leave,Sales
+EMP024,2026-05-11,Present,Sales
+EMP024,2026-05-12,Present,Sales
+EMP024,2026-05-13,Work From Home,Sales
+EMP024,2026-05-14,Leave,Sales
+EMP024,2026-05-15,Work From Home,Sales
+EMP024,2026-05-18,Absent,Sales
+EMP024,2026-05-19,Present,Sales
+EMP024,2026-05-20,Present,Sales
+EMP024,2026-05-21,Present,Sales
+EMP024,2026-05-22,Present,Sales
+EMP024,2026-05-25,Present,Sales
+EMP024,2026-05-26,Absent,Sales
+EMP024,2026-05-27,Present,Sales
+EMP024,2026-05-28,Absent,Sales
+EMP024,2026-05-29,Present,Sales
+EMP024,2026-06-01,Work From Home,Sales
+EMP024,2026-06-02,Present,Sales
+EMP024,2026-06-03,Present,Sales
+EMP024,2026-06-04,Present,Sales
+EMP024,2026-06-05,Present,Sales
+EMP024,2026-06-08,Absent,Sales
+EMP024,2026-06-09,Absent,Sales
+EMP024,2026-06-10,Present,Sales
+EMP024,2026-06-11,Present,Sales
+EMP024,2026-06-12,Present,Sales
+EMP024,2026-06-15,Present,Sales
+EMP024,2026-06-16,Work From Home,Sales
+EMP024,2026-06-17,Leave,Sales
+EMP024,2026-06-18,Absent,Sales
+EMP024,2026-06-19,Absent,Sales
+EMP024,2026-06-22,Present,Sales
+EMP024,2026-06-23,Work From Home,Sales
+EMP024,2026-06-24,Absent,Sales
+EMP024,2026-06-25,Absent,Sales
+EMP024,2026-06-26,Leave,Sales
+EMP024,2026-06-29,Present,Sales
+EMP024,2026-06-30,Leave,Sales
+EMP024,2026-07-01,Present,Sales
+EMP024,2026-07-02,Present,Sales
+EMP024,2026-07-03,Present,Sales
+EMP024,2026-07-06,Work From Home,Sales
+EMP024,2026-07-07,Leave,Sales
+EMP024,2026-07-08,Absent,Sales
+EMP024,2026-07-09,Absent,Sales
+EMP024,2026-07-10,Present,Sales
+EMP024,2026-07-13,Work From Home,Sales
+EMP024,2026-07-14,Present,Sales
+EMP024,2026-07-15,Present,Sales
+EMP024,2026-07-16,Present,Sales
+EMP024,2026-07-17,Absent,Sales
+EMP024,2026-07-20,Absent,Sales
+EMP024,2026-07-21,Present,Sales
+EMP024,2026-07-22,Present,Sales
+EMP025,2026-02-02,Present,Marketing
+EMP025,2026-02-03,Present,Marketing
+EMP025,2026-02-04,Work From Home,Marketing
+EMP025,2026-02-05,Present,Marketing
+EMP025,2026-02-06,Present,Marketing
+EMP025,2026-02-09,Present,Marketing
+EMP025,2026-02-10,Absent,Marketing
+EMP025,2026-02-11,Present,Marketing
+EMP025,2026-02-12,Work From Home,Marketing
+EMP025,2026-02-13,Present,Marketing
+EMP025,2026-02-16,Present,Marketing
+EMP025,2026-02-17,Present,Marketing
+EMP025,2026-02-18,Leave,Marketing
+EMP025,2026-02-19,Present,Marketing
+EMP025,2026-02-20,Absent,Marketing
+EMP025,2026-02-23,Present,Marketing
+EMP025,2026-02-24,Present,Marketing
+EMP025,2026-02-25,Present,Marketing
+EMP025,2026-02-26,Leave,Marketing
+EMP025,2026-02-27,Present,Marketing
+EMP025,2026-03-02,Present,Marketing
+EMP025,2026-03-03,Present,Marketing
+EMP025,2026-03-04,Leave,Marketing
+EMP025,2026-03-05,Present,Marketing
+EMP025,2026-03-06,Absent,Marketing
+EMP025,2026-03-09,Present,Marketing
+EMP025,2026-03-10,Present,Marketing
+EMP025,2026-03-11,Present,Marketing
+EMP025,2026-03-12,Absent,Marketing
+EMP025,2026-03-13,Leave,Marketing
+EMP025,2026-03-16,Present,Marketing
+EMP025,2026-03-17,Present,Marketing
+EMP025,2026-03-18,Present,Marketing
+EMP025,2026-03-19,Present,Marketing
+EMP025,2026-03-20,Present,Marketing
+EMP025,2026-03-23,Present,Marketing
+EMP025,2026-03-24,Present,Marketing
+EMP025,2026-03-25,Present,Marketing
+EMP025,2026-03-26,Present,Marketing
+EMP025,2026-03-27,Present,Marketing
+EMP025,2026-03-30,Present,Marketing
+EMP025,2026-03-31,Present,Marketing
+EMP025,2026-04-01,Absent,Marketing
+EMP025,2026-04-02,Present,Marketing
+EMP025,2026-04-03,Present,Marketing
+EMP025,2026-04-06,Present,Marketing
+EMP025,2026-04-07,Present,Marketing
+EMP025,2026-04-08,Present,Marketing
+EMP025,2026-04-09,Present,Marketing
+EMP025,2026-04-10,Work From Home,Marketing
+EMP025,2026-04-13,Present,Marketing
+EMP025,2026-04-14,Present,Marketing
+EMP025,2026-04-15,Present,Marketing
+EMP025,2026-04-16,Present,Marketing
+EMP025,2026-04-17,Present,Marketing
+EMP025,2026-04-20,Present,Marketing
+EMP025,2026-04-21,Present,Marketing
+EMP025,2026-04-22,Present,Marketing
+EMP025,2026-04-23,Present,Marketing
+EMP025,2026-04-24,Present,Marketing
+EMP025,2026-04-27,Work From Home,Marketing
+EMP025,2026-04-28,Present,Marketing
+EMP025,2026-04-29,Present,Marketing
+EMP025,2026-04-30,Present,Marketing
+EMP025,2026-05-01,Work From Home,Marketing
+EMP025,2026-05-04,Present,Marketing
+EMP025,2026-05-05,Present,Marketing
+EMP025,2026-05-06,Present,Marketing
+EMP025,2026-05-07,Present,Marketing
+EMP025,2026-05-08,Present,Marketing
+EMP025,2026-05-11,Present,Marketing
+EMP025,2026-05-12,Present,Marketing
+EMP025,2026-05-13,Present,Marketing
+EMP025,2026-05-14,Present,Marketing
+EMP025,2026-05-15,Present,Marketing
+EMP025,2026-05-18,Present,Marketing
+EMP025,2026-05-19,Present,Marketing
+EMP025,2026-05-20,Present,Marketing
+EMP025,2026-05-21,Work From Home,Marketing
+EMP025,2026-05-22,Present,Marketing
+EMP025,2026-05-25,Present,Marketing
+EMP025,2026-05-26,Present,Marketing
+EMP025,2026-05-27,Work From Home,Marketing
+EMP025,2026-05-28,Present,Marketing
+EMP025,2026-05-29,Present,Marketing
+EMP025,2026-06-01,Present,Marketing
+EMP025,2026-06-02,Present,Marketing
+EMP025,2026-06-03,Present,Marketing
+EMP025,2026-06-04,Present,Marketing
+EMP025,2026-06-05,Present,Marketing
+EMP025,2026-06-08,Work From Home,Marketing
+EMP025,2026-06-09,Present,Marketing
+EMP025,2026-06-10,Present,Marketing
+EMP025,2026-06-11,Present,Marketing
+EMP025,2026-06-12,Present,Marketing
+EMP025,2026-06-15,Present,Marketing
+EMP025,2026-06-16,Present,Marketing
+EMP025,2026-06-17,Present,Marketing
+EMP025,2026-06-18,Leave,Marketing
+EMP025,2026-06-19,Work From Home,Marketing
+EMP025,2026-06-22,Present,Marketing
+EMP025,2026-06-23,Present,Marketing
+EMP025,2026-06-24,Work From Home,Marketing
+EMP025,2026-06-25,Present,Marketing
+EMP025,2026-06-26,Leave,Marketing
+EMP025,2026-06-29,Present,Marketing
+EMP025,2026-06-30,Present,Marketing
+EMP025,2026-07-01,Present,Marketing
+EMP025,2026-07-02,Present,Marketing
+EMP025,2026-07-03,Present,Marketing
+EMP025,2026-07-06,Present,Marketing
+EMP025,2026-07-07,Present,Marketing
+EMP025,2026-07-08,Present,Marketing
+EMP025,2026-07-09,Present,Marketing
+EMP025,2026-07-10,Work From Home,Marketing
+EMP025,2026-07-13,Present,Marketing
+EMP025,2026-07-14,Leave,Marketing
+EMP025,2026-07-15,Present,Marketing
+EMP025,2026-07-16,Present,Marketing
+EMP025,2026-07-17,Work From Home,Marketing
+EMP025,2026-07-20,Present,Marketing
+EMP025,2026-07-21,Present,Marketing
+EMP025,2026-07-22,Present,Marketing
