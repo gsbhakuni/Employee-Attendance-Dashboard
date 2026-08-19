@@ -1,6 +1,8 @@
 import streamlit as st
 import matplotlib.pyplot as plt
-import util, analytics, prediction
+import util
+import analytics
+import prediction
 from sklearn.model_selection import train_test_split
 st.set_page_config(page_title="Employee Attendance Dashboard", layout="wide")
 
